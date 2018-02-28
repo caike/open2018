@@ -3,6 +3,7 @@
 const request = require("request");
 const fs = require("fs");
 
+// extract this to module
 const competitorIds = [
   442223, // caike
   1330578, // fernando
