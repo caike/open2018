@@ -3,20 +3,13 @@
 const request = require("request");
 const fs = require("fs");
 
-// extract this to module
-const competitorIds = [
-  442223, // caike
-  1330578, // fernando
-  681449, // mateus
-  940313, // diego
-];
-
+const competitors = require("./lib/competitors");
 
 function fetchCompetitorData(ids){
   const baseUrl = "https://games.crossfit.com/competitions/api/v1/"+
   "competitions/open/2018/leaderboards?division=1&region=0&athlete=";
 
-  const allData = competitorIds.forEach((id) => {
+  const allData = competitors.forEach((id) => {
     console.log("request to");
     console.log(baseUrl + id);
     request(baseUrl + id, writeToFile(id));
@@ -32,4 +25,4 @@ function writeToFile(competitorId){
   }
 }
 
-fetchCompetitorData(competitorIds);
+fetchCompetitorData(competitors);
