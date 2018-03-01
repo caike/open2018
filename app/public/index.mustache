@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/signin.css" />
+
+    <title>CF Open Leaderboard</title>
+  </head>
+  <body class="container text-center sign-in-up">
+
+			<div class="row col">
+				<form class="form-signin" method="GET">
+					<img class="mb-4" src="cloud-computing.svg"
+            alt="" width="112" height="112">
+					<h1 class="h3 mb-3 font-weight-normal">CF Open 2018 Leaderboards</h1>
+					{{#alertInfo}}
+					<div class="alert alert-info">
+						{{alertInfo}}!
+					</div>
+					{{/alertInfo}}
+
+					<div class="checkbox mb-3">
+					</div>
+					<button class="btn btn-lg btn-block btn-hover"
+            type="submit" value="new">Create new</button>
+					<button class="btn btn-lg btn-block btn-hover"
+            type="submit" value="log-in">Log in</button>
+					<p class="mt-5 mb-3 text-muted">&copy; Idopterlabs 2018</p>
+				</form>
+			</div>
+  </body>
+</html>
