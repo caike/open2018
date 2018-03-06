@@ -12,8 +12,36 @@
     <title>CF Open Leaderboard</title>
   </head>
   <body class="container text-center sign-in-up">
-    <script>
-      const results = {{{ results }}};
-    </script>
+    <table class="table">
+      <thead>
+        <tr>
+          <th scope="col">#</th>
+          <th scope="col">Name</th>
+          <th scope="col">Affiliate</th>
+          <th scope="col">18.1</th>
+          <th scope="col">18.2</th>
+          <th scope="col">18.2a</th>
+          <th scope="col">18.3</th>
+          <th scope="col">18.4</th>
+          <th scope="col">18.5</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{#results}}
+          <tr>
+            <th scope="row">
+              <a href="https://games.crossfit.com/athlete/{{entrant.competitorId}}" target="_blank">
+                {{entrant.competitorId}}
+              </a>
+            </th>
+            <td>{{entrant.competitorName}}</td>
+            <td>{{entrant.affiliateName}}</td>
+            {{#scores}}
+              <td>{{scoreDisplay}}<br/>{{breakdown}}</td>
+            {{/scores}}
+          </tr>
+        {{/results}}
+      </tbody>
+    </table>
   </body>
 </html>

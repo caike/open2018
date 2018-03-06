@@ -14,7 +14,7 @@ routes.createNewLeaderboard = (request, response) => {
 
 routes.showLeaderboard = (request, response) => {
   fs.readFile("lib/data/results.json", (err, data) => {
-    const results = JSON.stringify(JSON.parse(data));
+    const results = JSON.parse(data);
     response.render("show", { results });
   });
 }
