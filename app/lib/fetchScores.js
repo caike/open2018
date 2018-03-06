@@ -3,7 +3,7 @@
 const request = require("request");
 const fs = require("fs");
 
-const competitors = require("./lib/competitors");
+const competitors = require("./competitors");
 
 function fetchCompetitorData(ids){
   const baseUrl = "https://games.crossfit.com/competitions/api/v1/"+
