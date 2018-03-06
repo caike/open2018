@@ -15,8 +15,8 @@ app.set("views", __dirname + "/public");
 const routes = require("./lib/routes");
 
 app.get("/", routes.root);
+app.get("/leaderboard", routes.showLeaderboard);
 //app.post("/leaderboards", routes.createNewLeaderboard);
-//app.get("/leaderboard/:id", routes.showLeaderboard);
 
 const PORT = process.env.PORT || "8080";
 app.listen(PORT, () => console.log(`Listening on ${PORT}`));

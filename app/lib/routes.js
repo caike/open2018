@@ -2,6 +2,8 @@
 
 const routes = {};
 
+const fs = require("fs");
+
 routes.root = (request, response) => {
   response.render("index");
 }
@@ -11,7 +13,10 @@ routes.createNewLeaderboard = (request, response) => {
 }
 
 routes.showLeaderboard = (request, response) => {
-  response.render("show");
+  fs.readFile("lib/data/results.json", (err, data) => {
+    const results = JSON.stringify(JSON.parse(data));
+    response.render("show", { results });
+  });
 }
 
 module.exports = routes;
