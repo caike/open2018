@@ -1,7 +1,7 @@
 "use strict";
 
 const fs = require("fs");
-const competitors = require("./lib/competitors");
+const competitors = require("./competitors");
 
 function readScoreFiles(){
   let score;
@@ -25,8 +25,12 @@ function filterCompetitors(scores){
 
 function sortRank(filtered){
   return filtered.sort((a,b) => {
-    return a.entrant.overallRank > b.entrant.overallRank
+    return sumScores(a.scores) < sumScores(b.scores);
   });
+}
+
+function sumScores(scores){
+  return scores.map(function(score) { return parseInt(score.score); }).reduce(function(prev, curr) { return prev + curr; });
 }
 
 function writeResults(sortedRank){
@@ -40,6 +44,6 @@ const allScores = readScoreFiles();
 const registeredCompetitors = filterCompetitors(allScores);
 const rankedCompetitors = sortRank(registeredCompetitors);
 
-console.log( rankedCompetitors );
+// console.log( rankedCompetitors );
 writeResults(rankedCompetitors);
 
