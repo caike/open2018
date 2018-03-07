@@ -11,37 +11,45 @@
 
     <title>CF Open Leaderboard</title>
   </head>
-  <body class="container text-center sign-in-up">
-    <table class="table">
-      <thead>
-        <tr>
-          <th scope="col">#</th>
-          <th scope="col">Name</th>
-          <th scope="col">Affiliate</th>
-          <th scope="col">18.1</th>
-          <th scope="col">18.2</th>
-          <th scope="col">18.2a</th>
-          <th scope="col">18.3</th>
-          <th scope="col">18.4</th>
-          <th scope="col">18.5</th>
-        </tr>
-      </thead>
-      <tbody>
-        {{#results}}
-          <tr>
-            <th scope="row">
-              <a href="https://games.crossfit.com/athlete/{{entrant.competitorId}}" target="_blank">
-                {{entrant.competitorId}}
-              </a>
-            </th>
-            <td>{{entrant.competitorName}}</td>
-            <td>{{entrant.affiliateName}}</td>
-            {{#scores}}
-              <td>{{scoreDisplay}}<br/>{{breakdown}}</td>
-            {{/scores}}
-          </tr>
-        {{/results}}
-      </tbody>
-    </table>
+  <body class="bg-light">
+    <div class="container">
+      <div class="text-center">
+        <h2 class="h3 mb-3 font-weight-normal">SáGalera CF</h2>
+      </div>
+
+      <div class="row">
+        <table class="table table-sm">
+          {{#results}}
+          <thead class="thead-light">
+            <tr>
+              <th scope="col" colspan="2">#{{counter}}</th>
+              <th scope="col" colspan="2">
+                <a href="https://games.crossfit.com/athlete/{{entrant.competitorId}}"
+                   target="_blank">
+                  {{entrant.competitorName}}</a>
+              </th>
+              <th scope="col" colspan="2">
+                {{entrant.affiliateName}}
+              </th>
+            </tr>
+          </thead>
+
+          <tbody>
+            <tr>
+              {{#scores}}
+                <th colspan="2">{{nextWod}}</th>
+              {{/scores}}
+              <!--{{resetWod}}-->
+            </tr>
+            <tr>
+              {{#scores}}
+                <td colspan="2">{{scoreDisplay}}</td>
+              {{/scores}}
+            </tr>
+          </tbody>
+          {{/results}}
+        </table>
+      </div>
+    </div>
   </body>
 </html>

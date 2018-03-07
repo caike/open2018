@@ -12,10 +12,18 @@ routes.createNewLeaderboard = (request, response) => {
   response.render("check-your-email");
 }
 
+const wods = ["18.1", "18.2", "18.2a", "18.3", "18.4", "18.5"];
+
 routes.showLeaderboard = (request, response) => {
   fs.readFile("lib/data/results.json", (err, data) => {
     const results = JSON.parse(data);
-    response.render("show", { results });
+
+    let count = 1;
+    let counter = () => count++;
+    let wodCount = 0;
+    let nextWod = () => wods[wodCount++];
+    let resetWod = () => wodCount = 0;
+    response.render("show", { results, counter, nextWod, resetWod });
   });
 }
 
