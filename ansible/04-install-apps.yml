@@ -1,0 +1,22 @@
+---
+- name: Deploy apps
+  hosts: do
+  remote_user: deploy
+
+  tasks:
+    - name: Ensure github.com is a known host
+      lineinfile:
+        dest: /home/deploy/.ssh/known_hosts
+        create: yes
+        state: present
+        line: "{{ lookup('pipe', 'ssh-keyscan -t rsa github.com') }}"
+        regexp: "^github\\.com"
+
+    - name: Clone/Pull from Github
+      git:
+        repo: git@github.com:caike/open2018.git
+        dest: /home/deploy/open2018
+        accept_hostkey: yes
+
+    - name: Install dependencies
+      shell: cd /home/deploy/open2018/app; npm install

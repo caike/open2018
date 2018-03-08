@@ -1,0 +1,16 @@
+[Unit]
+Description=Node app
+After=network.target
+
+[Service]
+User=deploy
+Environment=NODE_ENV=production
+Environment=PORT=8080
+WorkingDirectory=/home/deploy/open2018/app
+ExecStart=/usr/bin/node index.js
+Restart=always
+RestartSec=500ms
+StartLimitInterval=0
+
+[Install]
+WantedBy=multi-user.target

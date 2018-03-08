@@ -1,0 +1,39 @@
+---
+# Can only be run once, since it uses root user
+# to log in but then disables root login at the end.
+- name: Provision Production Server
+  hosts: do
+  remote_user: root
+  gather_facts: False
+
+  pre_tasks:
+    - name: Install python for Ansible
+      raw: test -e /usr/bin/python || (apt -y update && apt install -y python-minimal)
+      changed_when: False
+
+  tasks:
+    - name: Create non-root user on server
+      user: >
+        name=deploy
+        shell=/bin/bash
+        group=sudo
+
+    - name: Copy SSH key to allow logins with no password
+      authorized_key: >
+        user=deploy
+        key="{{ lookup('file', lookup('env','HOME') + '/.ssh/id_rsa.pub') }}"
+
+    - name: Skip sudo password for new user
+      lineinfile: >
+        dest=/etc/sudoers
+        line="deploy ALL=(ALL) NOPASSWD:ALL"
+        validate='visudo -cf %s'
+
+    - name: Disable root ssh login
+      lineinfile: >
+        dest=/etc/ssh/sshd_config
+        regexp='^PermitRootLogin yes' line='PermitRootLogin no'
+        state=present
+
+    - name: Restart ssh server
+      command: /etc/init.d/ssh restart
