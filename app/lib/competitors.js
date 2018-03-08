@@ -11,6 +11,7 @@ const competitorIds = [
   681449, // Mateus Linhares
   940313, // Diego Souza
   1330578, // Fernando Leite
+  772124, // Fellipe Godinho
 ];
 
 
