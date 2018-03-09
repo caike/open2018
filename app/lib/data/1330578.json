@@ -6,9 +6,9 @@
 
 	"pagination":
 	{
-		"currentPage":1494,
+		"currentPage":1532,
 		"totalPages":4551,
-		"totalCompetitors":227519
+		"totalCompetitors":227544
 	},
 
 	"sort":0,
@@ -63,23 +63,114 @@
 		{
 			"entrant":
 			{
-				"competitorId":"1321021",
-				"competitorName":"Joshua Tyack",
-				"firstName":"Joshua",
-				"lastName":"Tyack",
+				"competitorId":"920076",
+				"competitorName":"Hoyin Lam",
+				"firstName":"Hoyin",
+				"lastName":"Lam",
 				"status":"ACT",
 				"bibId":"",
 				"gender":"M",
 				"profilePicS3key":"pukie.png",
 				"countryShortCode":"",
 				"regionalCode":"0",
-				"regionId":"23",
-				"regionName":"Europe Central",
+				"regionId":"20",
+				"regionName":"Asia",
+				"divisionId":"18",
+				"profession":"256",
+				"affiliateId":"5724",
+				"affiliateName":"Reebok CrossFit MeWellness",
+				"age":"37",
+				"height":"178 cm",
+				"weight":"70 kg",
+				"teamCaptain":"0"
+			},
+
+			"ui":
+			{
+				"highlight":false
+			},
+
+			"scores":
+			[
+				{
+				"ordinal":1,
+				"rank":"78475",
+				"score":"12760000",
+				"scoreDisplay":"276 reps",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"2a29eb119cfe1079f47c",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"8 rounds +\n8 toes-to-bars\n10 clean & jerks\n2 calories","judge":"Ed Haynes","affiliate":"CrossFit CFPT",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":2,
+				"rank":"37260",
+				"score":"11100284",
+				"scoreDisplay":"7:16",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"b4af42defd6d50a4b8c1",
+				"scaled":"0",
+				"video":"0",
+				"time":436,"breakdown":"110 reps\n176 lb.","judge":"Ant Haynes","affiliate":"CrossFit CFPT",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":3,
+				"rank":"119636",
+				"score":"11760284",
+				"scoreDisplay":"176 lb",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"239d2ba5ee350d0b5b5c",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"176 lb.","time":436,"judge":"Ant Haynes","affiliate":"CrossFit CFPT",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
+				"heat":"",
+				"lane":""
+				}
+
+			],
+
+			"overallRank":"76551",
+			"overallScore":"238211",
+			"nextStage":""
+		},
+		{
+			"entrant":
+			{
+				"competitorId":"1405691",
+				"competitorName":"Alex Mottram-Hart",
+				"firstName":"Alex",
+				"lastName":"Mottram-Hart",
+				"status":"ACT",
+				"bibId":"",
+				"gender":"M",
+				"profilePicS3key":"pukie.png",
+				"countryShortCode":"",
+				"regionalCode":"0",
+				"regionId":"21",
+				"regionName":"Australasia",
 				"divisionId":"1",
 				"profession":"0",
-				"affiliateId":"14791",
-				"affiliateName":"Valesco CrossFit",
-				"age":"26",
+				"affiliateId":"14822",
+				"affiliateName":"CrossFit Kia Kaha",
+				"age":"30",
 				"height":"",
 				"weight":"",
 				"teamCaptain":"0"
@@ -94,149 +185,84 @@
 			[
 				{
 				"ordinal":1,
-				"rank":"111377",
-				"score":"12490000",
-				"scoreDisplay":"249 reps",
+				"rank":"42480",
+				"score":"13130000",
+				"scoreDisplay":"313 reps",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"af62d1538da35939728c",
+				"scoreIdentifier":"ddd0678997e01448a640",
 				"scaled":"0",
 				"video":"0",
-				"breakdown":"7 rounds +\n8 toes-to-bars\n10 clean & jerks\n7 calories","judge":"Charlie Menter","affiliate":"Valesco CrossFit",
+				"breakdown":"9 rounds +\n8 toes-to-bars\n10 clean & jerks\n7 calories","judge":"Darren Tahu","affiliate":"CrossFit Kia Kaha",
 				"heat":"",
 				"lane":""
 				}
 ,				{
 				"ordinal":2,
-				"rank":"54629",
-				"score":"11100244",
-				"scoreDisplay":"7:56",
+				"rank":"85293",
+				"score":"11100185",
+				"scoreDisplay":"8:55",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"e0f5f2015036c9c71957",
+				"scoreIdentifier":"0de27e0fbdb2a030a5bb",
 				"scaled":"0",
 				"video":"0",
-				"time":476,"breakdown":"110 reps\n220 lb.","judge":"Chester Stone","affiliate":"Valesco CrossFit",
+				"time":535,"breakdown":"110 reps\n187 lb.","judge":"Darren Tahu","affiliate":"CrossFit Kia Kaha",
 				"heat":"",
 				"lane":""
 				}
 ,				{
 				"ordinal":3,
-				"rank":"65803",
-				"score":"12200244",
-				"scoreDisplay":"220 lb",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"d643982088b8649672b3",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"220 lb.","time":476,"judge":"Chester Stone","affiliate":"Valesco CrossFit",
-				"heat":"",
-				"lane":""
-				}
-
-			],
-
-			"overallRank":"74651",
-			"overallScore":"231809",
-			"nextStage":""
-		},
-		{
-			"entrant":
-			{
-				"competitorId":"1091559",
-				"competitorName":"Andres Chavez",
-				"firstName":"Andres",
-				"lastName":"Chavez",
-				"status":"ACT",
-				"bibId":"",
-				"gender":"M",
-				"profilePicS3key":"1d1c6-P1091559_2-184.jpg",
-				"countryShortCode":"",
-				"regionalCode":"0",
-				"regionId":"24",
-				"regionName":"Europe South",
-				"divisionId":"1",
-				"profession":"0",
-				"affiliateId":"13783",
-				"affiliateName":"CrossFit Lambrate",
-				"age":"18",
-				"height":"171 cm",
-				"weight":"68 kg",
-				"teamCaptain":"0"
-			},
-
-			"ui":
-			{
-				"highlight":false
-			},
-
-			"scores":
-			[
-				{
-				"ordinal":1,
-				"rank":"88352",
-				"score":"12680000",
-				"scoreDisplay":"268 reps",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"ac37a8dda7b1d279ac37",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"8 rounds +\n8 toes-to-bars\n4 clean & jerks","judge":"Luigi Arrica","affiliate":"CrossFit Lambrate",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":2,
-				"rank":"40372",
-				"score":"11100274",
-				"scoreDisplay":"7:26",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"22f8afc0c606cfc21a7c",
-				"scaled":"0",
-				"video":"0",
-				"time":446,"breakdown":"110 reps\n187 lb.","judge":"Luigi Arrica","affiliate":"CrossFit Lambrate",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":3,
-				"rank":"103090",
-				"score":"11870274",
+				"rank":"107600",
+				"score":"11870185",
 				"scoreDisplay":"187 lb",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"faec25e39f82cb6dbbc6",
+				"scoreIdentifier":"666fcc01e841c2d20080",
 				"scaled":"0",
 				"video":"0",
-				"breakdown":"187 lb.","time":446,"judge":"Luigi Arrica","affiliate":"CrossFit Lambrate",
+				"breakdown":"187 lb.","time":535,"judge":"Darren Tahu","affiliate":"CrossFit Kia Kaha",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
 				"heat":"",
 				"lane":""
 				}
 
 			],
 
-			"overallRank":"74652",
-			"overallScore":"231814",
+			"overallRank":"76552",
+			"overallScore":"238213",
 			"nextStage":""
 		},
 		{
 			"entrant":
 			{
-				"competitorId":"840117",
-				"competitorName":"Randall Trickett",
-				"firstName":"Randall",
-				"lastName":"Trickett",
+				"competitorId":"159016",
+				"competitorName":"Tony Urbanek",
+				"firstName":"Tony",
+				"lastName":"Urbanek",
 				"status":"ACT",
 				"bibId":"",
 				"gender":"M",
-				"profilePicS3key":"89e8b-P840117_1-184.jpg",
+				"profilePicS3key":"eb9c0-P159016_2-184.jpg",
 				"countryShortCode":"",
-				"regionalCode":"1",
-				"regionId":"9",
-				"regionName":"Mid Atlantic",
+				"regionalCode":"3",
+				"regionId":"6",
+				"regionName":"Central East",
 				"divisionId":"18",
 				"profession":"0",
-				"affiliateId":"12123",
-				"affiliateName":"CrossFit Morgantown",
-				"age":"35",
-				"height":"75 in",
+				"affiliateId":"3060",
+				"affiliateName":"CrossFit Talon",
+				"age":"36",
+				"height":"74 in",
 				"weight":"220 lb",
 				"teamCaptain":"0"
 			},
@@ -250,72 +276,85 @@
 			[
 				{
 				"ordinal":1,
-				"rank":"67867",
-				"score":"12880000",
-				"scoreDisplay":"288 reps",
+				"rank":"90501",
+				"score":"12660000",
+				"scoreDisplay":"266 reps",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"1cff4132b30ce76226d1",
+				"scoreIdentifier":"eb2fe9ffbaeac7fb4314",
 				"scaled":"0",
 				"video":"0",
-				"breakdown":"9 rounds +\n0 toes-to-bars","judge":"Sean Leiseth","affiliate":"CrossFit Morgantown",
+				"breakdown":"8 rounds +\n8 toes-to-bars\n2 clean & jerks","judge":"Evan Gower","affiliate":"CrossFit Talon",
 				"heat":"",
 				"lane":""
 				}
 ,				{
 				"ordinal":2,
-				"rank":"96399",
-				"score":"11100154",
-				"scoreDisplay":"9:26",
+				"rank":"90544",
+				"score":"11100174",
+				"scoreDisplay":"9:06",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"806ffd889858af89287d",
+				"scoreIdentifier":"0d346dc606deb0d5eede",
 				"scaled":"0",
 				"video":"0",
-				"time":566,"breakdown":"110 reps\n220 lb.","judge":"Sean Leiseth","affiliate":"CrossFit Morgantown",
+				"time":546,"breakdown":"110 reps\n230 lb.","judge":"Jay Clarke","affiliate":"CrossFit Talon",
 				"heat":"",
 				"lane":""
 				}
 ,				{
 				"ordinal":3,
-				"rank":"67551",
-				"score":"12200154",
-				"scoreDisplay":"220 lb",
+				"rank":"54328",
+				"score":"12300174",
+				"scoreDisplay":"230 lb",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"cf9e30f9453c58be886b",
+				"scoreIdentifier":"47583871c7a16cfccbad",
 				"scaled":"0",
 				"video":"0",
-				"breakdown":"220 lb.","time":566,"judge":"Sean Leiseth","affiliate":"CrossFit Morgantown",
+				"breakdown":"230 lb.","time":546,"judge":"Jay Clarke","affiliate":"CrossFit Talon",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
 				"heat":"",
 				"lane":""
 				}
 
 			],
 
-			"overallRank":"74653",
-			"overallScore":"231817",
+			"overallRank":"76552",
+			"overallScore":"238213",
 			"nextStage":""
 		},
 		{
 			"entrant":
 			{
-				"competitorId":"775246",
-				"competitorName":"Brenden Kemper",
-				"firstName":"Brenden",
-				"lastName":"Kemper",
+				"competitorId":"914082",
+				"competitorName":"Vyacheslav Aladin",
+				"firstName":"Vyacheslav",
+				"lastName":"Aladin",
 				"status":"ACT",
 				"bibId":"",
 				"gender":"M",
-				"profilePicS3key":"pukie.png",
+				"profilePicS3key":"7f6f4-P914082_5-184.jpg",
 				"countryShortCode":"",
-				"regionalCode":"3",
-				"regionId":"6",
-				"regionName":"Central East",
+				"regionalCode":"0",
+				"regionId":"22",
+				"regionName":"Europe North",
 				"divisionId":"1",
-				"profession":"0",
-				"affiliateId":"13987",
-				"affiliateName":"CrossFit Tuebor",
+				"profession":"256",
+				"affiliateId":"0",
+				"affiliateName":"",
 				"age":"25",
-				"height":"69 in",
-				"weight":"195 lb",
+				"height":"195 cm",
+				"weight":"95 kg",
 				"teamCaptain":"0"
 			},
 
@@ -328,384 +367,85 @@
 			[
 				{
 				"ordinal":1,
-				"rank":"91465",
-				"score":"12650000",
-				"scoreDisplay":"265 reps",
+				"rank":"66620",
+				"score":"12890000",
+				"scoreDisplay":"289 reps",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"73040c735451ac7ee91b",
+				"scoreIdentifier":"508fb2f60a5e0d6b9911",
 				"scaled":"0",
-				"video":"0",
-				"breakdown":"8 rounds +\n8 toes-to-bars\n1 clean & jerks","judge":"Jamie Mastromatteo","affiliate":"CrossFit Tuebor",
+				"video":"1",
+				"breakdown":"9 rounds +\n1 toes-to-bars",
 				"heat":"",
 				"lane":""
 				}
 ,				{
 				"ordinal":2,
-				"rank":"80816",
-				"score":"11100189",
-				"scoreDisplay":"8:51",
+				"rank":"130067",
+				"score":"11100079",
+				"scoreDisplay":"10:41",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"2d958eb70974e4d6f93e",
+				"scoreIdentifier":"368154b7527c502902df",
 				"scaled":"0",
-				"video":"0",
-				"time":531,"breakdown":"110 reps\n225 lb.","judge":"Erik Tyree","affiliate":"CrossFit Tuebor",
+				"video":"1",
+				"time":641,"breakdown":"110 reps\n243 lb.",
 				"heat":"",
 				"lane":""
 				}
 ,				{
 				"ordinal":3,
-				"rank":"59539",
-				"score":"12250189",
-				"scoreDisplay":"225 lb",
+				"rank":"40872",
+				"score":"12430079",
+				"scoreDisplay":"243 lb",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"cf10b434db6d39a36ff0",
+				"scoreIdentifier":"f0d00242a2b6d0e042a0",
 				"scaled":"0",
-				"video":"0",
-				"breakdown":"225 lb.","time":531,"judge":"Erik Tyree","affiliate":"CrossFit Tuebor",
+				"video":"1",
+				"breakdown":"243 lb.","time":641,
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"658",
+				"score":"13710093",
+				"scoreDisplay":"371 reps",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"6f4e5eb63f33e65230e9",
+				"scaled":"0",
+				"video":"1",
+				"time":747,"breakdown":"100 double-unders\n20 overhead squats\n100 double-unders\n12 ring muscle-ups\n100 double-unders\n20 snatches\n19 double-unders",
 				"heat":"",
 				"lane":""
 				}
 
 			],
 
-			"overallRank":"74654",
-			"overallScore":"231820",
+			"overallRank":"76554",
+			"overallScore":"238217",
 			"nextStage":""
 		},
 		{
 			"entrant":
 			{
-				"competitorId":"1370419",
-				"competitorName":"Gabriel Vasconcelos",
-				"firstName":"Gabriel",
-				"lastName":"Vasconcelos",
+				"competitorId":"1231782",
+				"competitorName":"Alex Jamora",
+				"firstName":"Alex",
+				"lastName":"Jamora",
 				"status":"ACT",
 				"bibId":"",
 				"gender":"M",
-				"profilePicS3key":"c1494-P1370419_2-184.jpg",
-				"countryShortCode":"",
-				"regionalCode":"0",
-				"regionId":"27",
-				"regionName":"South America",
-				"divisionId":"1",
-				"profession":"128",
-				"affiliateId":"18699",
-				"affiliateName":"Techbox CrossFit",
-				"age":"18",
-				"height":"",
-				"weight":"85 kg",
-				"teamCaptain":"0"
-			},
-
-			"ui":
-			{
-				"highlight":false
-			},
-
-			"scores":
-			[
-				{
-				"ordinal":1,
-				"rank":"101618",
-				"score":"12580000",
-				"scoreDisplay":"258 reps",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"6ce92f7cf3206b3e7fab",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"8 rounds +\n2 toes-to-bars","judge":"Bruno Rosa","affiliate":"Techbox CrossFit",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":2,
-				"rank":"63963",
-				"score":"11100224",
-				"scoreDisplay":"8:16",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"8b4476dc824a3e86c452",
-				"scaled":"0",
-				"video":"0",
-				"time":496,"breakdown":"110 reps\n220 lb.","judge":"Gabriel Andrade","affiliate":"Techbox CrossFit",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":3,
-				"rank":"66245",
-				"score":"12200224",
-				"scoreDisplay":"220 lb",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"fa59081816bb6b2bfabb",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"220 lb.","time":496,"judge":"Gabriel Andrade","affiliate":"Techbox CrossFit",
-				"heat":"",
-				"lane":""
-				}
-
-			],
-
-			"overallRank":"74655",
-			"overallScore":"231826",
-			"nextStage":""
-		},
-		{
-			"entrant":
-			{
-				"competitorId":"878859",
-				"competitorName":"Fernando Alves",
-				"firstName":"Fernando",
-				"lastName":"Alves",
-				"status":"ACT",
-				"bibId":"",
-				"gender":"M",
-				"profilePicS3key":"56eb5-P878859_1-184.jpg",
-				"countryShortCode":"",
-				"regionalCode":"0",
-				"regionId":"24",
-				"regionName":"Europe South",
-				"divisionId":"12",
-				"profession":"0",
-				"affiliateId":"8053",
-				"affiliateName":"CrossFit 351",
-				"age":"44",
-				"height":"179 cm",
-				"weight":"82 kg",
-				"teamCaptain":"0"
-			},
-
-			"ui":
-			{
-				"highlight":false
-			},
-
-			"scores":
-			[
-				{
-				"ordinal":1,
-				"rank":"101618",
-				"score":"12580000",
-				"scoreDisplay":"258 reps",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"85a72fa9de514eb81bcc",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"8 rounds +\n2 toes-to-bars","judge":"Guadalupe Cabral","affiliate":"CrossFit 351",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":2,
-				"rank":"63963",
-				"score":"11100224",
-				"scoreDisplay":"8:16",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"84f95a1d14c72d4bdb55",
-				"scaled":"0",
-				"video":"0",
-				"time":496,"breakdown":"110 reps\n220 lb.","judge":"Guadalupe Cabral","affiliate":"CrossFit 351",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":3,
-				"rank":"66245",
-				"score":"12200224",
-				"scoreDisplay":"220 lb",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"fefc5514b76c9a33c750",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"220 lb.","time":496,"judge":"Guadalupe Cabral","affiliate":"CrossFit 351",
-				"heat":"",
-				"lane":""
-				}
-
-			],
-
-			"overallRank":"74655",
-			"overallScore":"231826",
-			"nextStage":""
-		},
-		{
-			"entrant":
-			{
-				"competitorId":"1235483",
-				"competitorName":"Marcello Gozzi",
-				"firstName":"Marcello",
-				"lastName":"Gozzi",
-				"status":"ACT",
-				"bibId":"",
-				"gender":"M",
-				"profilePicS3key":"pukie.png",
-				"countryShortCode":"",
-				"regionalCode":"0",
-				"regionId":"24",
-				"regionName":"Europe South",
-				"divisionId":"1",
-				"profession":"0",
-				"affiliateId":"14984",
-				"affiliateName":"CrossFit SGP",
-				"age":"25",
-				"height":"",
-				"weight":"",
-				"teamCaptain":"0"
-			},
-
-			"ui":
-			{
-				"highlight":false
-			},
-
-			"scores":
-			[
-				{
-				"ordinal":1,
-				"rank":"101618",
-				"score":"12580000",
-				"scoreDisplay":"258 reps",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"4dceecb45a013331219e",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"8 rounds +\n2 toes-to-bars","judge":"Filippo Quinci","affiliate":"CrossFit SGP",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":2,
-				"rank":"63963",
-				"score":"11100224",
-				"scoreDisplay":"8:16",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"1609ed4c823220caa16e",
-				"scaled":"0",
-				"video":"0",
-				"time":496,"breakdown":"110 reps\n220 lb.","judge":"Filippo Quinci","affiliate":"CrossFit SGP",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":3,
-				"rank":"66245",
-				"score":"12200224",
-				"scoreDisplay":"220 lb",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"a6f0c781d30cff4fa4fe",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"220 lb.","time":496,"judge":"Filippo Quinci","affiliate":"CrossFit SGP",
-				"heat":"",
-				"lane":""
-				}
-
-			],
-
-			"overallRank":"74655",
-			"overallScore":"231826",
-			"nextStage":""
-		},
-		{
-			"entrant":
-			{
-				"competitorId":"495427",
-				"competitorName":"Gil Rodriguez",
-				"firstName":"Gil",
-				"lastName":"Rodriguez",
-				"status":"ACT",
-				"bibId":"",
-				"gender":"M",
-				"profilePicS3key":"pukie.png",
-				"countryShortCode":"",
-				"regionalCode":"1",
-				"regionId":"15",
-				"regionName":"South East",
-				"divisionId":"1",
-				"profession":"1",
-				"affiliateId":"10320",
-				"affiliateName":"CrossFit Lions Den",
-				"age":"29",
-				"height":"",
-				"weight":"168 lb",
-				"teamCaptain":"0"
-			},
-
-			"ui":
-			{
-				"highlight":false
-			},
-
-			"scores":
-			[
-				{
-				"ordinal":1,
-				"rank":"77583",
-				"score":"12770000",
-				"scoreDisplay":"277 reps",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"e18b4563004b75e8194d",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"8 rounds +\n8 toes-to-bars\n10 clean & jerks\n3 calories","judge":"Milton Holdiem","affiliate":"CrossFit Lions Den",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":2,
-				"rank":"81744",
-				"score":"11100187",
-				"scoreDisplay":"8:53",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"cefe41de6e6a805b09c7",
-				"scaled":"0",
-				"video":"0",
-				"time":533,"breakdown":"110 reps\n215 lb.","judge":"Jonathan Grassel","affiliate":"CrossFit Lions Den",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":3,
-				"rank":"72506",
-				"score":"12150187",
-				"scoreDisplay":"215 lb",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"532615d57e639c74ead5",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"215 lb.","time":533,"judge":"Jonathan Grassel","affiliate":"CrossFit Lions Den",
-				"heat":"",
-				"lane":""
-				}
-
-			],
-
-			"overallRank":"74658",
-			"overallScore":"231833",
-			"nextStage":""
-		},
-		{
-			"entrant":
-			{
-				"competitorId":"1080644",
-				"competitorName":"Andrew Marges",
-				"firstName":"Andrew",
-				"lastName":"Marges",
-				"status":"ACT",
-				"bibId":"",
-				"gender":"M",
-				"profilePicS3key":"e7966-P1080644_1-184.jpg",
+				"profilePicS3key":"c09d8-P1231782_1-184.jpg",
 				"countryShortCode":"",
 				"regionalCode":"0",
 				"regionId":"19",
 				"regionName":"West Coast",
-				"divisionId":"3",
-				"profession":"16",
-				"affiliateId":"588",
-				"affiliateName":"CrossFit X-Factor",
-				"age":"48",
-				"height":"66 in",
-				"weight":"155 lb",
+				"divisionId":"1",
+				"profession":"0",
+				"affiliateId":"11871",
+				"affiliateName":"CrossFit Vent",
+				"age":"32",
+				"height":"68 in",
+				"weight":"163 lb",
 				"teamCaptain":"0"
 			},
 
@@ -718,696 +458,85 @@
 			[
 				{
 				"ordinal":1,
-				"rank":"92557",
-				"score":"12640000",
-				"scoreDisplay":"264 reps",
+				"rank":"23786",
+				"score":"13370000",
+				"scoreDisplay":"337 reps",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"1aa155627e84622d5492",
+				"scoreIdentifier":"08369e8023f5aad422f3",
 				"scaled":"0",
 				"video":"0",
-				"breakdown":"8 rounds +\n8 toes-to-bars","judge":"jamal cook","affiliate":"CrossFit X-Factor",
+				"breakdown":"10 rounds +\n8 toes-to-bars\n9 clean & jerks","judge":"AJ Hebert","affiliate":"CrossFit Vent",
 				"heat":"",
 				"lane":""
 				}
 ,				{
 				"ordinal":2,
-				"rank":"56647",
-				"score":"11100240",
-				"scoreDisplay":"8:00",
+				"rank":"86814",
+				"score":"11100182",
+				"scoreDisplay":"8:58",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"422a3b6dfd55df070d45",
+				"scoreIdentifier":"f5b7240a48fde87e2903",
 				"scaled":"0",
 				"video":"0",
-				"time":480,"breakdown":"110 reps\n205 lb.","judge":"Jamal Cooke","affiliate":"CrossFit X-Factor",
+				"time":538,"breakdown":"110 reps\n175 lb.","judge":"AJ","affiliate":"CrossFit Vent",
 				"heat":"",
 				"lane":""
 				}
 ,				{
 				"ordinal":3,
-				"rank":"82632",
-				"score":"12050240",
-				"scoreDisplay":"205 lb",
+				"rank":"124781",
+				"score":"11750182",
+				"scoreDisplay":"175 lb",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"adf71936af1200b2324e",
+				"scoreIdentifier":"093e1d4e8abbd27c6d40",
 				"scaled":"0",
 				"video":"0",
-				"breakdown":"205 lb.","time":480,"judge":"Jamal Cooke","affiliate":"CrossFit X-Factor",
+				"breakdown":"175 lb.","time":538,"judge":"AJ","affiliate":"CrossFit Vent",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
 				"heat":"",
 				"lane":""
 				}
 
 			],
 
-			"overallRank":"74659",
-			"overallScore":"231836",
+			"overallRank":"76555",
+			"overallScore":"238221",
 			"nextStage":""
 		},
 		{
 			"entrant":
 			{
-				"competitorId":"530837",
-				"competitorName":"Braxton Hardy",
-				"firstName":"Braxton",
-				"lastName":"Hardy",
+				"competitorId":"890153",
+				"competitorName":"Djordje Vuletic",
+				"firstName":"Djordje",
+				"lastName":"Vuletic",
 				"status":"ACT",
 				"bibId":"",
 				"gender":"M",
-				"profilePicS3key":"pukie.png",
-				"countryShortCode":"",
-				"regionalCode":"3",
-				"regionId":"10",
-				"regionName":"North Central",
-				"divisionId":"16",
-				"profession":"128",
-				"affiliateId":"4051",
-				"affiliateName":"B-FIT CrossFit",
-				"age":"17",
-				"height":"69 in",
-				"weight":"140 lb",
-				"teamCaptain":"0"
-			},
-
-			"ui":
-			{
-				"highlight":false
-			},
-
-			"scores":
-			[
-				{
-				"ordinal":1,
-				"rank":"67867",
-				"score":"12880000",
-				"scoreDisplay":"288 reps",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"139bbe8fabd64f63e0dc",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"9 rounds +\n0 toes-to-bars","judge":"Aaron Powell","affiliate":"B-FIT CrossFit",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":2,
-				"rank":"66365",
-				"score":"11100219",
-				"scoreDisplay":"8:21",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"a9a4cbfaec4af7fe9d53",
-				"scaled":"0",
-				"video":"0",
-				"time":501,"breakdown":"110 reps\n195 lb.","judge":"Clay Linebach","affiliate":"B-FIT CrossFit",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":3,
-				"rank":"97605",
-				"score":"11950219",
-				"scoreDisplay":"195 lb",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"c5e90f05166437ed7942",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"195 lb.","time":501,"judge":"Clay Linebach","affiliate":"B-FIT CrossFit",
-				"heat":"",
-				"lane":""
-				}
-
-			],
-
-			"overallRank":"74660",
-			"overallScore":"231837",
-			"nextStage":""
-		},
-		{
-			"entrant":
-			{
-				"competitorId":"1214720",
-				"competitorName":"Ryan Dennison",
-				"firstName":"Ryan",
-				"lastName":"Dennison",
-				"status":"ACT",
-				"bibId":"",
-				"gender":"M",
-				"profilePicS3key":"8520d-P1214720_1-184.jpg",
+				"profilePicS3key":"85df1-P890153_1-184.jpg",
 				"countryShortCode":"",
 				"regionalCode":"0",
 				"regionId":"23",
 				"regionName":"Europe Central",
 				"divisionId":"1",
 				"profession":"0",
-				"affiliateId":"5628",
-				"affiliateName":"CrossFit 8020",
-				"age":"24",
-				"height":"170 cm",
-				"weight":"83 kg",
-				"teamCaptain":"0"
-			},
-
-			"ui":
-			{
-				"highlight":false
-			},
-
-			"scores":
-			[
-				{
-				"ordinal":1,
-				"rank":"97137",
-				"score":"12610000",
-				"scoreDisplay":"261 reps",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"22b2c052920cc74fd919",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"8 rounds +\n5 toes-to-bars","judge":"Chris McDonnell","affiliate":"CrossFit 8020",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":2,
-				"rank":"42688",
-				"score":"11100269",
-				"scoreDisplay":"7:31",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"04ecdf663aef8c4327ce",
-				"scaled":"0",
-				"video":"0",
-				"time":451,"breakdown":"110 reps\n198 lb.","judge":"Neil Laverty","affiliate":"CrossFit 8020",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":3,
-				"rank":"92019",
-				"score":"11980269",
-				"scoreDisplay":"198 lb",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"832943ce1722315bba7a",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"198 lb.","time":451,"judge":"Neil Laverty","affiliate":"CrossFit 8020",
-				"heat":"",
-				"lane":""
-				}
-
-			],
-
-			"overallRank":"74661",
-			"overallScore":"231844",
-			"nextStage":""
-		},
-		{
-			"entrant":
-			{
-				"competitorId":"524437",
-				"competitorName":"Rick Lastra",
-				"firstName":"Rick",
-				"lastName":"Lastra",
-				"status":"ACT",
-				"bibId":"",
-				"gender":"M",
-				"profilePicS3key":"66203-P524437_3-184.jpg",
-				"countryShortCode":"",
-				"regionalCode":"0",
-				"regionId":"26",
-				"regionName":"Central America",
-				"divisionId":"12",
-				"profession":"0",
-				"affiliateId":"12511",
-				"affiliateName":"Under Cover CrossFit",
-				"age":"40",
-				"height":"179 cm",
-				"weight":"89 kg",
-				"teamCaptain":"0"
-			},
-
-			"ui":
-			{
-				"highlight":false
-			},
-
-			"scores":
-			[
-				{
-				"ordinal":1,
-				"rank":"72634",
-				"score":"12840000",
-				"scoreDisplay":"284 reps",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"35dffc537b243311397a",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"8 rounds +\n8 toes-to-bars\n10 clean & jerks\n10 calories","judge":"Ivan Gonzalez","affiliate":"Under Cover CrossFit",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":2,
-				"rank":"75476",
-				"score":"11100200",
-				"scoreDisplay":"8:40",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"07033ac608b6001b119a",
-				"scaled":"0",
-				"video":"0",
-				"time":520,"breakdown":"110 reps\n205 lb.","judge":"Ivan Gonzalez","affiliate":"Under Cover CrossFit",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":3,
-				"rank":"83736",
-				"score":"12050200",
-				"scoreDisplay":"205 lb",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"1f8a488bcb7ec08cfa5e",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"205 lb.","time":520,"judge":"Ivan Gonzalez","affiliate":"Under Cover CrossFit",
-				"heat":"",
-				"lane":""
-				}
-
-			],
-
-			"overallRank":"74662",
-			"overallScore":"231846",
-			"nextStage":""
-		},
-		{
-			"entrant":
-			{
-				"competitorId":"1232426",
-				"competitorName":"Phillip Vasquez",
-				"firstName":"Phillip",
-				"lastName":"Vasquez",
-				"status":"ACT",
-				"bibId":"",
-				"gender":"M",
-				"profilePicS3key":"pukie.png",
-				"countryShortCode":"",
-				"regionalCode":"7",
-				"regionId":"14",
-				"regionName":"South Central",
-				"divisionId":"1",
-				"profession":"0",
-				"affiliateId":"19321",
-				"affiliateName":"CrossFit Be Someone",
-				"age":"24",
-				"height":"",
-				"weight":"",
-				"teamCaptain":"0"
-			},
-
-			"ui":
-			{
-				"highlight":false
-			},
-
-			"scores":
-			[
-				{
-				"ordinal":1,
-				"rank":"72634",
-				"score":"12840000",
-				"scoreDisplay":"284 reps",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"a1c1bc707bcd2425cc7b",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"8 rounds +\n8 toes-to-bars\n10 clean & jerks\n10 calories","judge":"Josh Melendez","affiliate":"CrossFit Be Someone",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":2,
-				"rank":"75476",
-				"score":"11100200",
-				"scoreDisplay":"8:40",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"841f19c6de61e56ff4cf",
-				"scaled":"0",
-				"video":"0",
-				"time":520,"breakdown":"110 reps\n205 lb.","judge":"Josh Melendez","affiliate":"CrossFit Be Someone",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":3,
-				"rank":"83736",
-				"score":"12050200",
-				"scoreDisplay":"205 lb",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"ba8b1fce4dd687e9aad3",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"205 lb.","time":520,"judge":"Josh Melendez","affiliate":"CrossFit Be Someone",
-				"heat":"",
-				"lane":""
-				}
-
-			],
-
-			"overallRank":"74662",
-			"overallScore":"231846",
-			"nextStage":""
-		},
-		{
-			"entrant":
-			{
-				"competitorId":"78628",
-				"competitorName":"Brett Beckham",
-				"firstName":"Brett",
-				"lastName":"Beckham",
-				"status":"ACT",
-				"bibId":"",
-				"gender":"M",
-				"profilePicS3key":"89ddc-P78628_3-184.jpg",
-				"countryShortCode":"",
-				"regionalCode":"3",
-				"regionId":"6",
-				"regionName":"Central East",
-				"divisionId":"18",
-				"profession":"0",
-				"affiliateId":"570",
-				"affiliateName":"CrossFit Jackson",
-				"age":"36",
-				"height":"67 in",
-				"weight":"180 lb",
-				"teamCaptain":"0"
-			},
-
-			"ui":
-			{
-				"highlight":false
-			},
-
-			"scores":
-			[
-				{
-				"ordinal":1,
-				"rank":"72634",
-				"score":"12840000",
-				"scoreDisplay":"284 reps",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"9b88ca40adc86bc024f5",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"8 rounds +\n8 toes-to-bars\n10 clean & jerks\n10 calories","judge":"Jim Droke","affiliate":"CrossFit Jackson",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":2,
-				"rank":"75476",
-				"score":"11100200",
-				"scoreDisplay":"8:40",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"45f079a58d8cfe6cf566",
-				"scaled":"0",
-				"video":"0",
-				"time":520,"breakdown":"110 reps\n205 lb.","judge":"Kim Cunningham","affiliate":"CrossFit Jackson",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":3,
-				"rank":"83736",
-				"score":"12050200",
-				"scoreDisplay":"205 lb",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"fb19a8429c4b41e1943a",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"205 lb.","time":520,"judge":"Kim Cunningham","affiliate":"CrossFit Jackson",
-				"heat":"",
-				"lane":""
-				}
-
-			],
-
-			"overallRank":"74662",
-			"overallScore":"231846",
-			"nextStage":""
-		},
-		{
-			"entrant":
-			{
-				"competitorId":"1150650",
-				"competitorName":"Ernesto De Jesus Matias",
-				"firstName":"Ernesto",
-				"lastName":"De Jesus Matias",
-				"status":"ACT",
-				"bibId":"",
-				"gender":"M",
-				"profilePicS3key":"1d2e1-P1150650_3-184.jpg",
-				"countryShortCode":"",
-				"regionalCode":"0",
-				"regionId":"24",
-				"regionName":"Europe South",
-				"divisionId":"1",
-				"profession":"0",
-				"affiliateId":"11062",
-				"affiliateName":"CrossFit Les Valls",
-				"age":"26",
-				"height":"182 cm",
-				"weight":"90 kg",
-				"teamCaptain":"0"
-			},
-
-			"ui":
-			{
-				"highlight":false
-			},
-
-			"scores":
-			[
-				{
-				"ordinal":1,
-				"rank":"52618",
-				"score":"13010000",
-				"scoreDisplay":"301 reps",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"dbebd3b3e1d1cfb1da90",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"9 rounds +\n8 toes-to-bars\n5 clean & jerks","judge":"Carlos Melo","affiliate":"CrossFit Les Valls",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":2,
-				"rank":"76972",
-				"score":"11100197",
-				"scoreDisplay":"8:43",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"5d3f85f2c5bc6b9149da",
-				"scaled":"0",
-				"video":"0",
-				"time":523,"breakdown":"110 reps\n189 lb.","judge":"Carlos Melo","affiliate":"CrossFit Les Valls",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":3,
-				"rank":"102258",
-				"score":"11890197",
-				"scoreDisplay":"189 lb",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"1ed873408d64441f95a5",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"189 lb.","time":523,"judge":"Carlos Melo","affiliate":"CrossFit Les Valls",
-				"heat":"",
-				"lane":""
-				}
-
-			],
-
-			"overallRank":"74665",
-			"overallScore":"231848",
-			"nextStage":""
-		},
-		{
-			"entrant":
-			{
-				"competitorId":"629104",
-				"competitorName":"Dan Hancock",
-				"firstName":"Dan",
-				"lastName":"Hancock",
-				"status":"ACT",
-				"bibId":"",
-				"gender":"M",
-				"profilePicS3key":"5b25d-P629104_8-184.jpg",
-				"countryShortCode":"",
-				"regionalCode":"8",
-				"regionId":"5",
-				"regionName":"Canada West",
-				"divisionId":"12",
-				"profession":"0",
-				"affiliateId":"623",
-				"affiliateName":"CrossFit Taranis",
-				"age":"42",
-				"height":"72 in",
-				"weight":"192 lb",
-				"teamCaptain":"0"
-			},
-
-			"ui":
-			{
-				"highlight":false
-			},
-
-			"scores":
-			[
-				{
-				"ordinal":1,
-				"rank":"61453",
-				"score":"12930000",
-				"scoreDisplay":"293 reps",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"bc818b05f741dbac8b40",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"9 rounds +\n5 toes-to-bars","judge":"Andrew Macaulay","affiliate":"CrossFit Taranis",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":2,
-				"rank":"90266",
-				"score":"11100168",
-				"scoreDisplay":"9:12",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"c18a2ae6806d45128a6a",
-				"scaled":"0",
-				"video":"0",
-				"time":552,"breakdown":"110 reps\n207 lb.","judge":"Yako Topalovic","affiliate":"CrossFit Taranis",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":3,
-				"rank":"80131",
-				"score":"12070168",
-				"scoreDisplay":"207 lb",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"e98343a9818e21d5d528",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"207 lb.","time":552,"judge":"Yako Topalovic","affiliate":"CrossFit Taranis",
-				"heat":"",
-				"lane":""
-				}
-
-			],
-
-			"overallRank":"74666",
-			"overallScore":"231850",
-			"nextStage":""
-		},
-		{
-			"entrant":
-			{
-				"competitorId":"1403842",
-				"competitorName":"Rayden Hobson",
-				"firstName":"Rayden",
-				"lastName":"Hobson",
-				"status":"ACT",
-				"bibId":"",
-				"gender":"M",
-				"profilePicS3key":"pukie.png",
-				"countryShortCode":"",
-				"regionalCode":"0",
-				"regionId":"21",
-				"regionName":"Australasia",
-				"divisionId":"1",
-				"profession":"256",
-				"affiliateId":"374",
-				"affiliateName":"CrossFit Horizons",
-				"age":"18",
-				"height":"",
-				"weight":"75 kg",
-				"teamCaptain":"0"
-			},
-
-			"ui":
-			{
-				"highlight":false
-			},
-
-			"scores":
-			[
-				{
-				"ordinal":1,
-				"rank":"89318",
-				"score":"12670000",
-				"scoreDisplay":"267 reps",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"dcbe378b003b8cfc1fca",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"8 rounds +\n8 toes-to-bars\n3 clean & jerks","judge":"Jamie Johnson","affiliate":"CrossFit Horizons",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":2,
-				"rank":"52598",
-				"score":"11100248",
-				"scoreDisplay":"7:52",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"02f12b65f01a521a7ffd",
-				"scaled":"0",
-				"video":"0",
-				"time":472,"breakdown":"110 reps\n200 lb.","judge":"Jamie Johnson","affiliate":"CrossFit Horizons",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":3,
-				"rank":"89935",
-				"score":"12000248",
-				"scoreDisplay":"200 lb",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"9d3a27fcf3c88c157656",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"200 lb.","time":472,"judge":"Jamie Johnson","affiliate":"CrossFit Horizons",
-				"heat":"",
-				"lane":""
-				}
-
-			],
-
-			"overallRank":"74667",
-			"overallScore":"231851",
-			"nextStage":""
-		},
-		{
-			"entrant":
-			{
-				"competitorId":"823361",
-				"competitorName":"Ryan Martin",
-				"firstName":"Ryan",
-				"lastName":"Martin",
-				"status":"ACT",
-				"bibId":"",
-				"gender":"M",
-				"profilePicS3key":"pukie.png",
-				"countryShortCode":"",
-				"regionalCode":"3",
-				"regionId":"6",
-				"regionName":"Central East",
-				"divisionId":"1",
-				"profession":"0",
-				"affiliateId":"1822",
-				"affiliateName":"CrossFit Rampage",
+				"affiliateId":"13413",
+				"affiliateName":"CrossFit Schmelztiegel",
 				"age":"27",
-				"height":"",
-				"weight":"",
+				"height":"174 cm",
+				"weight":"95 kg",
 				"teamCaptain":"0"
 			},
 
@@ -1420,48 +549,61 @@
 			[
 				{
 				"ordinal":1,
-				"rank":"90386",
-				"score":"12660000",
-				"scoreDisplay":"266 reps",
+				"rank":"104547",
+				"score":"12560000",
+				"scoreDisplay":"256 reps",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"7ace3cb78b2389f07cd5",
+				"scoreIdentifier":"e5048c784498fdd3ad58",
 				"scaled":"0",
 				"video":"0",
-				"breakdown":"8 rounds +\n8 toes-to-bars\n2 clean & jerks","judge":"Julie Martin","affiliate":"CrossFit Rampage",
+				"breakdown":"8 rounds +\n0 toes-to-bars","judge":"Simone Favaloro","affiliate":"CrossFit Little Hell",
 				"heat":"",
 				"lane":""
 				}
 ,				{
 				"ordinal":2,
-				"rank":"93673",
-				"score":"11100160",
-				"scoreDisplay":"9:20",
+				"rank":"90094",
+				"score":"11100175",
+				"scoreDisplay":"9:05",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"b6e84beda5233efff3fd",
+				"scoreIdentifier":"0af03fa21ff1e180d4b4",
 				"scaled":"0",
 				"video":"0",
-				"time":560,"breakdown":"110 reps\n235 lb.","judge":"Julie Martin","affiliate":"CrossFit Rampage",
+				"time":545,"breakdown":"110 reps\n243 lb.","judge":"Svilen Viktorov","affiliate":"CrossFit Schmelztiegel",
 				"heat":"",
 				"lane":""
 				}
 ,				{
 				"ordinal":3,
-				"rank":"47793",
-				"score":"12350160",
-				"scoreDisplay":"235 lb",
+				"rank":"40747",
+				"score":"12430175",
+				"scoreDisplay":"243 lb",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"938080c5bb906062d869",
+				"scoreIdentifier":"72a5b63d18c56256a31d",
 				"scaled":"0",
 				"video":"0",
-				"breakdown":"235 lb.","time":560,"judge":"Julie Martin","affiliate":"CrossFit Rampage",
+				"breakdown":"243 lb.","time":545,"judge":"Svilen Viktorov","affiliate":"CrossFit Schmelztiegel",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
 				"heat":"",
 				"lane":""
 				}
 
 			],
 
-			"overallRank":"74668",
-			"overallScore":"231852",
+			"overallRank":"76556",
+			"overallScore":"238228",
 			"nextStage":""
 		},
 		{
@@ -1498,7 +640,7 @@
 			[
 				{
 				"ordinal":1,
-				"rank":"122222",
+				"rank":"122358",
 				"score":"12370000",
 				"scoreDisplay":"237 reps",
 				"mobileScoreDisplay":"",
@@ -1511,7 +653,7 @@
 				}
 ,				{
 				"ordinal":2,
-				"rank":"68681",
+				"rank":"70783",
 				"score":"11100214",
 				"scoreDisplay":"8:26",
 				"mobileScoreDisplay":"",
@@ -1524,7 +666,7 @@
 				}
 ,				{
 				"ordinal":3,
-				"rank":"40953",
+				"rank":"42248",
 				"score":"12420214",
 				"scoreDisplay":"242 lb",
 				"mobileScoreDisplay":"",
@@ -1535,35 +677,48 @@
 				"heat":"",
 				"lane":""
 				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
+				"heat":"",
+				"lane":""
+				}
 
 			],
 
-			"overallRank":"74669",
-			"overallScore":"231856",
+			"overallRank":"76557",
+			"overallScore":"238229",
 			"nextStage":""
 		},
 		{
 			"entrant":
 			{
-				"competitorId":"1366946",
-				"competitorName":"Jandre Kruger",
-				"firstName":"Jandre",
-				"lastName":"Kruger",
+				"competitorId":"1237718",
+				"competitorName":"Matheus Bueno",
+				"firstName":"Matheus",
+				"lastName":"Bueno",
 				"status":"ACT",
 				"bibId":"",
 				"gender":"M",
-				"profilePicS3key":"pukie.png",
+				"profilePicS3key":"8474f-P1237718_1-184.jpg",
 				"countryShortCode":"",
 				"regionalCode":"0",
-				"regionId":"25",
-				"regionName":"Africa Middle East",
-				"divisionId":"16",
-				"profession":"0",
-				"affiliateId":"10293",
-				"affiliateName":"CrossFit Noise 1540",
-				"age":"17",
-				"height":"",
-				"weight":"",
+				"regionId":"27",
+				"regionName":"South America",
+				"divisionId":"1",
+				"profession":"128",
+				"affiliateId":"0",
+				"affiliateName":"",
+				"age":"21",
+				"height":"183 cm",
+				"weight":"80 kg",
 				"teamCaptain":"0"
 			},
 
@@ -1576,150 +731,85 @@
 			[
 				{
 				"ordinal":1,
-				"rank":"80187",
-				"score":"12740000",
-				"scoreDisplay":"274 reps",
+				"rank":"104547",
+				"score":"12560000",
+				"scoreDisplay":"256 reps",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"285906cb14eeb883c79f",
+				"scoreIdentifier":"721ac242a31207004920",
 				"scaled":"0",
-				"video":"0",
-				"breakdown":"8 rounds +\n8 toes-to-bars\n10 clean & jerks","judge":"Lara Dabner","affiliate":"CrossFit Noise 1540",
+				"video":"1",
+				"breakdown":"8 rounds +\n0 toes-to-bars",
 				"heat":"",
 				"lane":""
 				}
 ,				{
 				"ordinal":2,
-				"rank":"44902",
-				"score":"11100264",
-				"scoreDisplay":"7:36",
+				"rank":"88369",
+				"score":"11100179",
+				"scoreDisplay":"9:01",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"22ba85a7bcc913006938",
+				"scoreIdentifier":"23c06626436cfb9ae41b",
 				"scaled":"0",
-				"video":"0",
-				"time":456,"breakdown":"110 reps\n185 lb.","judge":"Lara Dabner","affiliate":"CrossFit Noise 1540",
+				"video":"1",
+				"time":541,"breakdown":"110 reps\n242 lb.",
 				"heat":"",
 				"lane":""
 				}
 ,				{
 				"ordinal":3,
-				"rank":"106767",
-				"score":"11850264",
-				"scoreDisplay":"185 lb",
+				"rank":"42477",
+				"score":"12420179",
+				"scoreDisplay":"242 lb",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"4fb108f532e29d8d27af",
+				"scoreIdentifier":"cbd3892ef55aae66f0b7",
+				"scaled":"0",
+				"video":"1",
+				"breakdown":"242 lb.","time":541,
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
 				"scaled":"0",
 				"video":"0",
-				"breakdown":"185 lb.","time":456,"judge":"Lara Dabner","affiliate":"CrossFit Noise 1540",
+				"judge":"","affiliate":"","time":"","breakdown":"",
 				"heat":"",
 				"lane":""
 				}
 
 			],
 
-			"overallRank":"74669",
-			"overallScore":"231856",
+			"overallRank":"76558",
+			"overallScore":"238233",
 			"nextStage":""
 		},
 		{
 			"entrant":
 			{
-				"competitorId":"269762",
-				"competitorName":"Eric Ebuen",
-				"firstName":"Eric",
-				"lastName":"Ebuen",
+				"competitorId":"179369",
+				"competitorName":"Hugh Stewart",
+				"firstName":"Hugh",
+				"lastName":"Stewart",
 				"status":"ACT",
 				"bibId":"",
 				"gender":"M",
-				"profilePicS3key":"e55fd-P269762_6-184.jpg",
-				"countryShortCode":"",
-				"regionalCode":"1",
-				"regionId":"15",
-				"regionName":"South East",
-				"divisionId":"3",
-				"profession":"32",
-				"affiliateId":"16172",
-				"affiliateName":"Cigar City CrossFit",
-				"age":"45",
-				"height":"62 in",
-				"weight":"155 lb",
-				"teamCaptain":"0"
-			},
-
-			"ui":
-			{
-				"highlight":false
-			},
-
-			"scores":
-			[
-				{
-				"ordinal":1,
-				"rank":"80187",
-				"score":"12740000",
-				"scoreDisplay":"274 reps",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"4aec1439f5f57eb1e76f",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"8 rounds +\n8 toes-to-bars\n10 clean & jerks","judge":"Benjamin Bunn","affiliate":"Cigar City CrossFit",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":2,
-				"rank":"44902",
-				"score":"11100264",
-				"scoreDisplay":"7:36",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"086f86aca983dc4e303d",
-				"scaled":"0",
-				"video":"0",
-				"time":456,"breakdown":"110 reps\n185 lb.","judge":"Benjamin Bunn","affiliate":"Cigar City CrossFit",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":3,
-				"rank":"106767",
-				"score":"11850264",
-				"scoreDisplay":"185 lb",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"41e185e9d68a1de711e3",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"185 lb.","time":456,"judge":"Benjamin Bunn","affiliate":"Cigar City CrossFit",
-				"heat":"",
-				"lane":""
-				}
-
-			],
-
-			"overallRank":"74669",
-			"overallScore":"231856",
-			"nextStage":""
-		},
-		{
-			"entrant":
-			{
-				"competitorId":"503493",
-				"competitorName":"Christoff Coetzee",
-				"firstName":"Christoff",
-				"lastName":"Coetzee",
-				"status":"ACT",
-				"bibId":"",
-				"gender":"M",
-				"profilePicS3key":"aece2-P503493_2-184.jpg",
+				"profilePicS3key":"76743-P179369_3-184.jpg",
 				"countryShortCode":"",
 				"regionalCode":"1",
 				"regionId":"15",
 				"regionName":"South East",
 				"divisionId":"18",
 				"profession":"0",
-				"affiliateId":"323",
-				"affiliateName":"CrossFit East Cobb",
-				"age":"37",
-				"height":"178 cm",
-				"weight":"180 lb",
+				"affiliateId":"14181",
+				"affiliateName":"Driving Force CrossFit",
+				"age":"38",
+				"height":"68 in",
+				"weight":"225 lb",
 				"teamCaptain":"0"
 			},
 
@@ -1732,539 +822,84 @@
 			[
 				{
 				"ordinal":1,
-				"rank":"80187",
-				"score":"12740000",
-				"scoreDisplay":"274 reps",
+				"rank":"108924",
+				"score":"12530000",
+				"scoreDisplay":"253 reps",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"aa3ca308276f1bb572ef",
+				"scoreIdentifier":"6e55f45819f75695bcee",
 				"scaled":"0",
 				"video":"0",
-				"breakdown":"8 rounds +\n8 toes-to-bars\n10 clean & jerks","judge":"Kate Brun","affiliate":"CrossFit East Cobb",
+				"breakdown":"7 rounds +\n8 toes-to-bars\n10 clean & jerks\n11 calories","judge":"Lina Espinoza","affiliate":"Driving Force CrossFit",
 				"heat":"",
 				"lane":""
 				}
 ,				{
 				"ordinal":2,
-				"rank":"44902",
-				"score":"11100264",
-				"scoreDisplay":"7:36",
+				"rank":"77797",
+				"score":"11100200",
+				"scoreDisplay":"8:40",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"baf944b14dd201ce430d",
+				"scoreIdentifier":"73718fa2a0d3409daa0d",
 				"scaled":"0",
 				"video":"0",
-				"time":456,"breakdown":"110 reps\n185 lb.","judge":"Paula Molinari","affiliate":"CrossFit East Cobb",
+				"time":520,"breakdown":"110 reps\n235 lb.","judge":"Carlos Mejias","affiliate":"Driving Force CrossFit",
 				"heat":"",
 				"lane":""
 				}
 ,				{
 				"ordinal":3,
-				"rank":"106767",
-				"score":"11850264",
-				"scoreDisplay":"185 lb",
+				"rank":"48676",
+				"score":"12350200",
+				"scoreDisplay":"235 lb",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"1e9e09b0d0d7180e13c6",
+				"scoreIdentifier":"a9c4dd21775ed263e5c2",
 				"scaled":"0",
 				"video":"0",
-				"breakdown":"185 lb.","time":456,"judge":"Paula Molinari","affiliate":"CrossFit East Cobb",
+				"breakdown":"235 lb.","time":520,"judge":"Carlos Mejias","affiliate":"Driving Force CrossFit",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
 				"heat":"",
 				"lane":""
 				}
 
 			],
 
-			"overallRank":"74669",
-			"overallScore":"231856",
+			"overallRank":"76559",
+			"overallScore":"238237",
 			"nextStage":""
 		},
 		{
 			"entrant":
 			{
-				"competitorId":"884149",
-				"competitorName":"Tjade Tieltjes",
-				"firstName":"Tjade",
-				"lastName":"Tieltjes",
+				"competitorId":"790013",
+				"competitorName":"Alex Walker",
+				"firstName":"Alex",
+				"lastName":"Walker",
 				"status":"ACT",
 				"bibId":"",
 				"gender":"M",
-				"profilePicS3key":"1cc37-P884149_2-184.jpg",
-				"countryShortCode":"",
-				"regionalCode":"0",
-				"regionId":"23",
-				"regionName":"Europe Central",
-				"divisionId":"1",
-				"profession":"0",
-				"affiliateId":"2352",
-				"affiliateName":"CrossFit Twente",
-				"age":"27",
-				"height":"175 cm",
-				"weight":"70 kg",
-				"teamCaptain":"0"
-			},
-
-			"ui":
-			{
-				"highlight":false
-			},
-
-			"scores":
-			[
-				{
-				"ordinal":1,
-				"rank":"71992",
-				"score":"12850000",
-				"scoreDisplay":"285 reps",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"750f7a80ae4b52b3b7cd",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"8 rounds +\n8 toes-to-bars\n10 clean & jerks\n11 calories","judge":"Sebastiaan Waanders","affiliate":"CrossFit Twente",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":2,
-				"rank":"85133",
-				"score":"11100180",
-				"scoreDisplay":"9:00",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"bf4ab3a7122ec2a86796",
-				"scaled":"0",
-				"video":"0",
-				"time":540,"breakdown":"110 reps\n213 lb.","judge":"Renske ten Brinke","affiliate":"CrossFit Twente",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":3,
-				"rank":"74735",
-				"score":"12130180",
-				"scoreDisplay":"213 lb",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"8299434b8d5961cf3aca",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"213 lb.","time":540,"judge":"Renske ten Brinke","affiliate":"CrossFit Twente",
-				"heat":"",
-				"lane":""
-				}
-
-			],
-
-			"overallRank":"74673",
-			"overallScore":"231860",
-			"nextStage":""
-		},
-		{
-			"entrant":
-			{
-				"competitorId":"985701",
-				"competitorName":"John Howard",
-				"firstName":"John",
-				"lastName":"Howard",
-				"status":"ACT",
-				"bibId":"",
-				"gender":"M",
-				"profilePicS3key":"efadb-P985701_1-184.jpg",
-				"countryShortCode":"",
-				"regionalCode":"1",
-				"regionId":"15",
-				"regionName":"South East",
-				"divisionId":"3",
-				"profession":"0",
-				"affiliateId":"4888",
-				"affiliateName":"CrossFit Port Orange",
-				"age":"47",
-				"height":"67 in",
-				"weight":"175 lb",
-				"teamCaptain":"0"
-			},
-
-			"ui":
-			{
-				"highlight":false
-			},
-
-			"scores":
-			[
-				{
-				"ordinal":1,
-				"rank":"76120",
-				"score":"12790000",
-				"scoreDisplay":"279 reps",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"4873fbfef7be2a7f4f0f",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"8 rounds +\n8 toes-to-bars\n10 clean & jerks\n5 calories","judge":"Kyle Brumenschenkel","affiliate":"CrossFit Port Orange",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":2,
-				"rank":"72208",
-				"score":"11100207",
-				"scoreDisplay":"8:33",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"221038a4631d16398f53",
-				"scaled":"0",
-				"video":"0",
-				"time":513,"breakdown":"110 reps\n205 lb.","judge":"Kyle Brumenschenkel","affiliate":"CrossFit Port Orange",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":3,
-				"rank":"83534",
-				"score":"12050207",
-				"scoreDisplay":"205 lb",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"b3ce3ce48ff7add2469a",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"205 lb.","time":513,"judge":"Kyle Brumenschenkel","affiliate":"CrossFit Port Orange",
-				"heat":"",
-				"lane":""
-				}
-
-			],
-
-			"overallRank":"74674",
-			"overallScore":"231862",
-			"nextStage":""
-		},
-		{
-			"entrant":
-			{
-				"competitorId":"40534",
-				"competitorName":"Michael Dorssom",
-				"firstName":"Michael",
-				"lastName":"Dorssom",
-				"status":"ACT",
-				"bibId":"",
-				"gender":"M",
-				"profilePicS3key":"de882-P40534_3-184.jpg",
+				"profilePicS3key":"836eb-P790013_1-184.jpg",
 				"countryShortCode":"",
 				"regionalCode":"0",
 				"regionId":"19",
 				"regionName":"West Coast",
-				"divisionId":"12",
-				"profession":"0",
-				"affiliateId":"93",
-				"affiliateName":"CrossFit 7220",
-				"age":"44",
-				"height":"71 in",
-				"weight":"190 lb",
-				"teamCaptain":"0"
-			},
-
-			"ui":
-			{
-				"highlight":false
-			},
-
-			"scores":
-			[
-				{
-				"ordinal":1,
-				"rank":"92557",
-				"score":"12640000",
-				"scoreDisplay":"264 reps",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"d99075a9c39fcca46073",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"8 rounds +\n8 toes-to-bars","judge":"Marty McKinney","affiliate":"CrossFit 7220",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":2,
-				"rank":"79842",
-				"score":"11100191",
-				"scoreDisplay":"8:49",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"5900aa24a24b7a4c6daa",
-				"scaled":"0",
-				"video":"0",
-				"time":529,"breakdown":"110 reps\n225 lb.","judge":"Nicole Bleak","affiliate":"CrossFit 7220",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":3,
-				"rank":"59465",
-				"score":"12250191",
-				"scoreDisplay":"225 lb",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"62f68d382c7f744e217e",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"225 lb.","time":529,"judge":"Nicole Bleak","affiliate":"CrossFit 7220",
-				"heat":"",
-				"lane":""
-				}
-
-			],
-
-			"overallRank":"74675",
-			"overallScore":"231864",
-			"nextStage":""
-		},
-		{
-			"entrant":
-			{
-				"competitorId":"23630",
-				"competitorName":"Chris Tamer",
-				"firstName":"Chris",
-				"lastName":"Tamer",
-				"status":"ACT",
-				"bibId":"",
-				"gender":"M",
-				"profilePicS3key":"33fc2-P23630_8-184.jpg",
-				"countryShortCode":"",
-				"regionalCode":"3",
-				"regionId":"6",
-				"regionName":"Central East",
-				"divisionId":"3",
-				"profession":"0",
-				"affiliateId":"1178",
-				"affiliateName":"CrossFit Brighton",
-				"age":"47",
-				"height":"74 in",
-				"weight":"190 lb",
-				"teamCaptain":"0"
-			},
-
-			"ui":
-			{
-				"highlight":false
-			},
-
-			"scores":
-			[
-				{
-				"ordinal":1,
-				"rank":"92557",
-				"score":"12640000",
-				"scoreDisplay":"264 reps",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"f8936640bdf48ab5dde6",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"8 rounds +\n8 toes-to-bars","judge":"Jason Valente","affiliate":"CrossFit Brighton",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":2,
-				"rank":"79842",
-				"score":"11100191",
-				"scoreDisplay":"8:49",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"49bae965a656e987ee66",
-				"scaled":"0",
-				"video":"0",
-				"time":529,"breakdown":"110 reps\n225 lb.","judge":"Jason Lemerand","affiliate":"CrossFit Brighton",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":3,
-				"rank":"59465",
-				"score":"12250191",
-				"scoreDisplay":"225 lb",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"6e23e0aff577adc69c36",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"225 lb.","time":529,"judge":"Jason Lemerand","affiliate":"CrossFit Brighton",
-				"heat":"",
-				"lane":""
-				}
-
-			],
-
-			"overallRank":"74675",
-			"overallScore":"231864",
-			"nextStage":""
-		},
-		{
-			"entrant":
-			{
-				"competitorId":"1276114",
-				"competitorName":"Andy Hundley",
-				"firstName":"Andy",
-				"lastName":"Hundley",
-				"status":"ACT",
-				"bibId":"",
-				"gender":"M",
-				"profilePicS3key":"pukie.png",
-				"countryShortCode":"",
-				"regionalCode":"3",
-				"regionId":"6",
-				"regionName":"Central East",
 				"divisionId":"1",
 				"profession":"0",
-				"affiliateId":"5742",
-				"affiliateName":"CrossFit PHIT",
-				"age":"30",
-				"height":"",
-				"weight":"",
-				"teamCaptain":"0"
-			},
-
-			"ui":
-			{
-				"highlight":false
-			},
-
-			"scores":
-			[
-				{
-				"ordinal":1,
-				"rank":"92557",
-				"score":"12640000",
-				"scoreDisplay":"264 reps",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"e6e49a4dca0bc6d2df40",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"8 rounds +\n8 toes-to-bars","judge":"Steve Pittroff","affiliate":"CrossFit PHIT",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":2,
-				"rank":"79842",
-				"score":"11100191",
-				"scoreDisplay":"8:49",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"eb30583590634f3ba223",
-				"scaled":"0",
-				"video":"0",
-				"time":529,"breakdown":"110 reps\n225 lb.","judge":"Steve Pittroff","affiliate":"CrossFit PHIT",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":3,
-				"rank":"59465",
-				"score":"12250191",
-				"scoreDisplay":"225 lb",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"c4b550525b5770a2cec5",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"225 lb.","time":529,"judge":"Steve Pittroff","affiliate":"CrossFit PHIT",
-				"heat":"",
-				"lane":""
-				}
-
-			],
-
-			"overallRank":"74675",
-			"overallScore":"231864",
-			"nextStage":""
-		},
-		{
-			"entrant":
-			{
-				"competitorId":"973388",
-				"competitorName":"Brandon Paschal",
-				"firstName":"Brandon",
-				"lastName":"Paschal",
-				"status":"ACT",
-				"bibId":"",
-				"gender":"M",
-				"profilePicS3key":"f7a33-P973388_2-184.jpg",
-				"countryShortCode":"",
-				"regionalCode":"3",
-				"regionId":"6",
-				"regionName":"Central East",
-				"divisionId":"18",
-				"profession":"64",
-				"affiliateId":"6210",
-				"affiliateName":"CrossFit Unbreakable",
-				"age":"36",
-				"height":"72 in",
-				"weight":"205 lb",
-				"teamCaptain":"0"
-			},
-
-			"ui":
-			{
-				"highlight":false
-			},
-
-			"scores":
-			[
-				{
-				"ordinal":1,
-				"rank":"100183",
-				"score":"12590000",
-				"scoreDisplay":"259 reps",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"48b5ae0d206899ebf138",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"8 rounds +\n3 toes-to-bars","judge":"James Beebe","affiliate":"CrossFit Unbreakable",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":2,
-				"rank":"84193",
-				"score":"11100182",
-				"scoreDisplay":"8:58",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"33caa17419d3a1aa8300",
-				"scaled":"0",
-				"video":"0",
-				"time":538,"breakdown":"110 reps\n235 lb.","judge":"Kimberly McMahan","affiliate":"CrossFit Unbreakable",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":3,
-				"rank":"47494",
-				"score":"12350182",
-				"scoreDisplay":"235 lb",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"70c47699d7bf1a777f25",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"235 lb.","time":538,"judge":"Kimberly McMahan","affiliate":"CrossFit Unbreakable",
-				"heat":"",
-				"lane":""
-				}
-
-			],
-
-			"overallRank":"74678",
-			"overallScore":"231870",
-			"nextStage":""
-		},
-		{
-			"entrant":
-			{
-				"competitorId":"171905",
-				"competitorName":"Dennis Jones",
-				"firstName":"Dennis",
-				"lastName":"Jones",
-				"status":"ACT",
-				"bibId":"",
-				"gender":"M",
-				"profilePicS3key":"7c445-P171905_3-184.jpg",
-				"countryShortCode":"",
-				"regionalCode":"1",
-				"regionId":"9",
-				"regionName":"Mid Atlantic",
-				"divisionId":"3",
-				"profession":"0",
-				"affiliateId":"139",
-				"affiliateName":"CrossFit 2232",
-				"age":"48",
-				"height":"68 in",
+				"affiliateId":"8060",
+				"affiliateName":"CrossFit Up",
+				"age":"32",
+				"height":"75 in",
 				"weight":"195 lb",
 				"teamCaptain":"0"
 			},
@@ -2278,70 +913,83 @@
 			[
 				{
 				"ordinal":1,
-				"rank":"80187",
-				"score":"12740000",
-				"scoreDisplay":"274 reps",
+				"rank":"61522",
+				"score":"12930000",
+				"scoreDisplay":"293 reps",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"e23eafc8323093de9586",
+				"scoreIdentifier":"2c8d45796403cc52f428",
 				"scaled":"0",
 				"video":"0",
-				"breakdown":"8 rounds +\n8 toes-to-bars\n10 clean & jerks","judge":"Jama Anders","affiliate":"CrossFit 2232",
+				"breakdown":"9 rounds +\n5 toes-to-bars","judge":"Ryan DeWitt","affiliate":"CrossFit Up",
 				"heat":"",
 				"lane":""
 				}
 ,				{
 				"ordinal":2,
-				"rank":"61646",
-				"score":"11100229",
-				"scoreDisplay":"8:11",
+				"rank":"86814",
+				"score":"11100182",
+				"scoreDisplay":"8:58",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"d642e91daad51d13409f",
+				"scoreIdentifier":"ac830a91a8df95ca6b17",
 				"scaled":"0",
 				"video":"0",
-				"time":491,"breakdown":"110 reps\n200 lb.","judge":"Jama Anders","affiliate":"CrossFit 2232",
+				"time":538,"breakdown":"110 reps\n205 lb.","judge":"Ryan DeWitt","affiliate":"CrossFit Up",
 				"heat":"",
 				"lane":""
 				}
 ,				{
 				"ordinal":3,
-				"rank":"90037",
-				"score":"12000229",
-				"scoreDisplay":"200 lb",
+				"rank":"87071",
+				"score":"12050182",
+				"scoreDisplay":"205 lb",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"f3661e1b7425bd299414",
+				"scoreIdentifier":"0e17aacbbff8af713cdc",
 				"scaled":"0",
 				"video":"0",
-				"breakdown":"200 lb.","time":491,"judge":"Jama Anders","affiliate":"CrossFit 2232",
+				"breakdown":"205 lb.","time":538,"judge":"Ryan DeWitt","affiliate":"CrossFit Up",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
 				"heat":"",
 				"lane":""
 				}
 
 			],
 
-			"overallRank":"74678",
-			"overallScore":"231870",
+			"overallRank":"76560",
+			"overallScore":"238247",
 			"nextStage":""
 		},
 		{
 			"entrant":
 			{
-				"competitorId":"173010",
-				"competitorName":"Paul Panno",
-				"firstName":"Paul",
-				"lastName":"Panno",
+				"competitorId":"578022",
+				"competitorName":"Michael Grego",
+				"firstName":"Michael",
+				"lastName":"Grego",
 				"status":"ACT",
 				"bibId":"",
 				"gender":"M",
-				"profilePicS3key":"pukie.png",
+				"profilePicS3key":"9c5b0-P578022_1-184.jpg",
 				"countryShortCode":"",
-				"regionalCode":"3",
-				"regionId":"10",
-				"regionName":"North Central",
-				"divisionId":"1",
-				"profession":"256",
-				"affiliateId":"0",
-				"affiliateName":"",
-				"age":"26",
+				"regionalCode":"7",
+				"regionId":"14",
+				"regionName":"South Central",
+				"divisionId":"18",
+				"profession":"257",
+				"affiliateId":"3482",
+				"affiliateName":"Mortal CrossFit",
+				"age":"38",
 				"height":"70 in",
 				"weight":"175 lb",
 				"teamCaptain":"0"
@@ -2356,7 +1004,46 @@
 			[
 				{
 				"ordinal":1,
-				"rank":"207850",
+				"rank":"62773",
+				"score":"12920000",
+				"scoreDisplay":"292 reps",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"4bd0bdd6d71c3f171056",
+				"scaled":"0",
+				"video":"1",
+				"breakdown":"9 rounds +\n4 toes-to-bars",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":2,
+				"rank":"71748",
+				"score":"11100212",
+				"scoreDisplay":"8:28",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"f95aadfe488b706393cb",
+				"scaled":"0",
+				"video":"1",
+				"time":508,"breakdown":"110 reps\n195 lb.",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":3,
+				"rank":"100889",
+				"score":"11950212",
+				"scoreDisplay":"195 lb",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"fcc88decfe34dbd0c455",
+				"scaled":"0",
+				"video":"1",
+				"breakdown":"195 lb.","time":508,
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
 				"score":"0",
 				"scoreDisplay":"",
 				"mobileScoreDisplay":"",
@@ -2367,61 +1054,35 @@
 				"heat":"",
 				"lane":""
 				}
-,				{
-				"ordinal":2,
-				"rank":"5011",
-				"score":"11100392",
-				"scoreDisplay":"5:28",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"8b69e84af5ad6e7d1cca",
-				"scaled":"0",
-				"video":"1",
-				"time":328,"breakdown":"110 reps\n265 lb.",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":3,
-				"rank":"19011",
-				"score":"12650392",
-				"scoreDisplay":"265 lb",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"007f6b189987e12a498b",
-				"scaled":"0",
-				"video":"1",
-				"breakdown":"265 lb.","time":328,
-				"heat":"",
-				"lane":""
-				}
 
 			],
 
-			"overallRank":"74680",
-			"overallScore":"231872",
+			"overallRank":"76561",
+			"overallScore":"238250",
 			"nextStage":""
 		},
 		{
 			"entrant":
 			{
-				"competitorId":"1348049",
-				"competitorName":"Chris Capaldi",
-				"firstName":"Chris",
-				"lastName":"Capaldi",
+				"competitorId":"115733",
+				"competitorName":"Luca Prada",
+				"firstName":"Luca",
+				"lastName":"Prada",
 				"status":"ACT",
 				"bibId":"",
 				"gender":"M",
-				"profilePicS3key":"ea0dd-P1348049_1-184.jpg",
+				"profilePicS3key":"pukie.png",
 				"countryShortCode":"",
-				"regionalCode":"0",
-				"regionId":"23",
-				"regionName":"Europe Central",
+				"regionalCode":"4",
+				"regionId":"11",
+				"regionName":"North East",
 				"divisionId":"18",
 				"profession":"0",
-				"affiliateId":"12862",
-				"affiliateName":"CrossFit Skirmish",
-				"age":"39",
-				"height":"75 in",
-				"weight":"108 kg",
+				"affiliateId":"1774",
+				"affiliateName":"Maxability Sports and CrossFit",
+				"age":"37",
+				"height":"68 in",
+				"weight":"180 lb",
 				"teamCaptain":"0"
 			},
 
@@ -2434,228 +1095,85 @@
 			[
 				{
 				"ordinal":1,
-				"rank":"39393",
-				"score":"13190000",
-				"scoreDisplay":"319 reps",
+				"rank":"74773",
+				"score":"12810000",
+				"scoreDisplay":"281 reps",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"540ceece6085416af6c2",
+				"scoreIdentifier":"a47625f011f55aea8230",
 				"scaled":"0",
 				"video":"0",
-				"breakdown":"9 rounds +\n8 toes-to-bars\n10 clean & jerks\n13 calories","judge":"Scott Currie","affiliate":"CrossFit Skirmish",
+				"breakdown":"8 rounds +\n8 toes-to-bars\n10 clean & jerks\n7 calories","judge":"Colleen Lawrence","affiliate":"Maxability Sports and CrossFit",
 				"heat":"",
 				"lane":""
 				}
 ,				{
 				"ordinal":2,
-				"rank":"98136",
-				"score":"11100150",
-				"scoreDisplay":"9:30",
+				"rank":"74408",
+				"score":"11100207",
+				"scoreDisplay":"8:33",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"824fd66cff36597cc31a",
+				"scoreIdentifier":"52568dcdc4e58362625b",
 				"scaled":"0",
 				"video":"0",
-				"time":570,"breakdown":"110 reps\n198 lb.","judge":"David Cameron","affiliate":"CrossFit Skirmish",
+				"time":513,"breakdown":"110 reps\n205 lb.","judge":"Yvette Longobardi","affiliate":"Maxability Sports and CrossFit",
 				"heat":"",
 				"lane":""
 				}
 ,				{
 				"ordinal":3,
-				"rank":"94343",
-				"score":"11980150",
-				"scoreDisplay":"198 lb",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"3b6da43a7c90b4ec29da",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"198 lb.","time":570,"judge":"David Cameron","affiliate":"CrossFit Skirmish",
-				"heat":"",
-				"lane":""
-				}
-
-			],
-
-			"overallRank":"74680",
-			"overallScore":"231872",
-			"nextStage":""
-		},
-		{
-			"entrant":
-			{
-				"competitorId":"687146",
-				"competitorName":"Peter Siemsen",
-				"firstName":"Peter",
-				"lastName":"Siemsen",
-				"status":"ACT",
-				"bibId":"",
-				"gender":"M",
-				"profilePicS3key":"pukie.png",
-				"countryShortCode":"",
-				"regionalCode":"0",
-				"regionId":"19",
-				"regionName":"West Coast",
-				"divisionId":"1",
-				"profession":"0",
-				"affiliateId":"17000",
-				"affiliateName":"CrossFit Santa Barbara",
-				"age":"27",
-				"height":"72 in",
-				"weight":"165 lb",
-				"teamCaptain":"0"
-			},
-
-			"ui":
-			{
-				"highlight":false
-			},
-
-			"scores":
-			[
-				{
-				"ordinal":1,
-				"rank":"85965",
-				"score":"12700000",
-				"scoreDisplay":"270 reps",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"d0a9869cd1323fabac9f",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"8 rounds +\n8 toes-to-bars\n6 clean & jerks","judge":"President Business","affiliate":"CrossFit Santa Barbara",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":2,
-				"rank":"62923",
-				"score":"11100226",
-				"scoreDisplay":"8:14",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"60e5d429c69075cdfac0",
-				"scaled":"0",
-				"video":"0",
-				"time":494,"breakdown":"110 reps\n205 lb.","judge":"President Business","affiliate":"CrossFit Santa Barbara",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":3,
-				"rank":"82986",
-				"score":"12050226",
+				"rank":"86230",
+				"score":"12050207",
 				"scoreDisplay":"205 lb",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"2daefa82996c8fdb9d66",
+				"scoreIdentifier":"fb35fc72753434ab6e09",
 				"scaled":"0",
 				"video":"0",
-				"breakdown":"205 lb.","time":494,"judge":"President Business","affiliate":"CrossFit Santa Barbara",
+				"breakdown":"205 lb.","time":513,"judge":"Yvette Longobardi","affiliate":"Maxability Sports and CrossFit",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
 				"heat":"",
 				"lane":""
 				}
 
 			],
 
-			"overallRank":"74682",
-			"overallScore":"231874",
+			"overallRank":"76562",
+			"overallScore":"238251",
 			"nextStage":""
 		},
 		{
 			"entrant":
 			{
-				"competitorId":"117039",
-				"competitorName":"Chad Turnipseed",
-				"firstName":"Chad",
-				"lastName":"Turnipseed",
+				"competitorId":"1384438",
+				"competitorName":"Sam Davis",
+				"firstName":"Sam",
+				"lastName":"Davis",
 				"status":"ACT",
 				"bibId":"",
 				"gender":"M",
-				"profilePicS3key":"0ce81-P117039_2-184.jpg",
+				"profilePicS3key":"79862-P1384438_1-184.jpg",
 				"countryShortCode":"",
-				"regionalCode":"1",
-				"regionId":"15",
-				"regionName":"South East",
-				"divisionId":"1",
-				"profession":"0",
-				"affiliateId":"1521",
-				"affiliateName":"CrossFit Carnage",
-				"age":"32",
-				"height":"66 in",
-				"weight":"175 lb",
-				"teamCaptain":"0"
-			},
-
-			"ui":
-			{
-				"highlight":false
-			},
-
-			"scores":
-			[
-				{
-				"ordinal":1,
-				"rank":"73997",
-				"score":"12820000",
-				"scoreDisplay":"282 reps",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"454ed365fa9339cfd3d6",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"8 rounds +\n8 toes-to-bars\n10 clean & jerks\n8 calories","judge":"Jason McLean","affiliate":"CrossFit Carnage",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":2,
-				"rank":"97306",
-				"score":"11100152",
-				"scoreDisplay":"9:28",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"aa0ce195d307f151a82c",
-				"scaled":"0",
-				"video":"0",
-				"time":568,"breakdown":"110 reps\n225 lb.","judge":"Jason McLean","affiliate":"CrossFit Carnage",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":3,
-				"rank":"60574",
-				"score":"12250152",
-				"scoreDisplay":"225 lb",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"b517e51dd86301526ccd",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"225 lb.","time":568,"judge":"Jason McLean","affiliate":"CrossFit Carnage",
-				"heat":"",
-				"lane":""
-				}
-
-			],
-
-			"overallRank":"74683",
-			"overallScore":"231877",
-			"nextStage":""
-		},
-		{
-			"entrant":
-			{
-				"competitorId":"99194",
-				"competitorName":"Markus Schuster",
-				"firstName":"Markus",
-				"lastName":"Schuster",
-				"status":"ACT",
-				"bibId":"",
-				"gender":"M",
-				"profilePicS3key":"49a37-P99194_4-184.jpg",
-				"countryShortCode":"",
-				"regionalCode":"0",
-				"regionId":"23",
-				"regionName":"Europe Central",
+				"regionalCode":"3",
+				"regionId":"6",
+				"regionName":"Central East",
 				"divisionId":"12",
 				"profession":"0",
-				"affiliateId":"8140",
-				"affiliateName":"CrossFit Joule",
-				"age":"42",
-				"height":"173 cm",
-				"weight":"185 lb",
+				"affiliateId":"20067",
+				"affiliateName":"CrossFit Wilco",
+				"age":"40",
+				"height":"67 in",
+				"weight":"150 lb",
 				"teamCaptain":"0"
 			},
 
@@ -2668,72 +1186,85 @@
 			[
 				{
 				"ordinal":1,
-				"rank":"76813",
-				"score":"12780000",
-				"scoreDisplay":"278 reps",
+				"rank":"37023",
+				"score":"13200000",
+				"scoreDisplay":"320 reps",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"fbb91bb64568a8eafef1",
+				"scoreIdentifier":"2598ec0442d2b830fd54",
 				"scaled":"0",
 				"video":"0",
-				"breakdown":"8 rounds +\n8 toes-to-bars\n10 clean & jerks\n4 calories","judge":"Jacob Grossner","affiliate":"CrossFit Joule",
+				"breakdown":"10 rounds +\n0 toes-to-bars","judge":"Kristin Belville","affiliate":"CrossFit Wilco",
 				"heat":"",
 				"lane":""
 				}
 ,				{
 				"ordinal":2,
-				"rank":"87802",
-				"score":"11100174",
-				"scoreDisplay":"9:06",
+				"rank":"56268",
+				"score":"11100244",
+				"scoreDisplay":"7:56",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"63b8ddbfb0c8eb414905",
+				"scoreIdentifier":"0ddb98c028806d34f1be",
 				"scaled":"0",
 				"video":"0",
-				"time":546,"breakdown":"110 reps\n220 lb.","judge":"Sarah Klitzke","affiliate":"CrossFit Joule",
+				"time":476,"breakdown":"110 reps\n145 lb.","judge":"Darci Belville","affiliate":"CrossFit Wilco",
 				"heat":"",
 				"lane":""
 				}
 ,				{
 				"ordinal":3,
-				"rank":"67263",
-				"score":"12200174",
-				"scoreDisplay":"220 lb",
+				"rank":"142121",
+				"score":"11450244",
+				"scoreDisplay":"145 lb",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"4375973f0fbec966d687",
+				"scoreIdentifier":"6137a063cbbbdfef71aa",
 				"scaled":"0",
 				"video":"0",
-				"breakdown":"220 lb.","time":546,"judge":"Sarah Klitzke","affiliate":"CrossFit Joule",
+				"breakdown":"145 lb.","time":476,"judge":"Darci Belville","affiliate":"CrossFit Wilco",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
 				"heat":"",
 				"lane":""
 				}
 
 			],
 
-			"overallRank":"74684",
-			"overallScore":"231878",
+			"overallRank":"76563",
+			"overallScore":"238252",
 			"nextStage":""
 		},
 		{
 			"entrant":
 			{
-				"competitorId":"332869",
-				"competitorName":"Alen Folnovic",
-				"firstName":"Alen",
-				"lastName":"Folnovic",
+				"competitorId":"234657",
+				"competitorName":"rodrigo rubio",
+				"firstName":"rodrigo",
+				"lastName":"rubio",
 				"status":"ACT",
 				"bibId":"",
 				"gender":"M",
-				"profilePicS3key":"12745-P332869_2-184.jpg",
+				"profilePicS3key":"dc6d7-P234657_8-184.jpg",
 				"countryShortCode":"",
 				"regionalCode":"0",
-				"regionId":"23",
-				"regionName":"Europe Central",
-				"divisionId":"12",
+				"regionId":"27",
+				"regionName":"South America",
+				"divisionId":"18",
 				"profession":"0",
-				"affiliateId":"2515",
-				"affiliateName":"Myleo CrossFit",
-				"age":"43",
-				"height":"185 cm",
-				"weight":"82 kg",
+				"affiliateId":"19078",
+				"affiliateName":"Triple CrossFit",
+				"age":"35",
+				"height":"176 cm",
+				"weight":"90 kg",
 				"teamCaptain":"0"
 			},
 
@@ -2746,70 +1277,174 @@
 			[
 				{
 				"ordinal":1,
-				"rank":"46945",
-				"score":"13060000",
-				"scoreDisplay":"306 reps",
+				"rank":"91581",
+				"score":"12650000",
+				"scoreDisplay":"265 reps",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"3e9bffc38a5094022d2d",
+				"scoreIdentifier":"e28bad9595d28128b27d",
 				"scaled":"0",
 				"video":"0",
-				"breakdown":"9 rounds +\n8 toes-to-bars\n10 clean & jerks","judge":"Anna Quost","affiliate":"Myleo CrossFit",
+				"breakdown":"8 rounds +\n8 toes-to-bars\n1 clean & jerks","judge":"Fabio Pereira","affiliate":"Triple CrossFit",
 				"heat":"",
 				"lane":""
 				}
 ,				{
 				"ordinal":2,
-				"rank":"83241",
-				"score":"11100184",
-				"scoreDisplay":"8:56",
+				"rank":"104800",
+				"score":"11100142",
+				"scoreDisplay":"9:38",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"ae19028b64d0fa409fe6",
+				"scoreIdentifier":"aaffb310a85453e7f710",
 				"scaled":"0",
 				"video":"0",
-				"time":536,"breakdown":"110 reps\n190 lb.","judge":"Anna Quost","affiliate":"Myleo CrossFit",
+				"time":578,"breakdown":"110 reps\n245 lb.","judge":"Eduardo Jurazo","affiliate":"Triple CrossFit",
 				"heat":"",
 				"lane":""
 				}
 ,				{
 				"ordinal":3,
-				"rank":"101693",
-				"score":"11900184",
-				"scoreDisplay":"190 lb",
+				"rank":"39032",
+				"score":"12450142",
+				"scoreDisplay":"245 lb",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"b5dd8e17b02798d2afad",
+				"scoreIdentifier":"ac8e594239c06ea62e34",
 				"scaled":"0",
 				"video":"0",
-				"breakdown":"190 lb.","time":536,"judge":"Anna Quost","affiliate":"Myleo CrossFit",
+				"breakdown":"245 lb.","time":578,"judge":"Eduardo Jurazo","affiliate":"Triple CrossFit",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
 				"heat":"",
 				"lane":""
 				}
 
 			],
 
-			"overallRank":"74685",
-			"overallScore":"231879",
+			"overallRank":"76564",
+			"overallScore":"238253",
 			"nextStage":""
 		},
 		{
 			"entrant":
 			{
-				"competitorId":"1355625",
-				"competitorName":"Blake Elliott",
-				"firstName":"Blake",
-				"lastName":"Elliott",
+				"competitorId":"1224832",
+				"competitorName":"Ricardo Gonçalves",
+				"firstName":"Ricardo",
+				"lastName":"Gonçalves",
 				"status":"ACT",
 				"bibId":"",
 				"gender":"M",
 				"profilePicS3key":"pukie.png",
 				"countryShortCode":"",
 				"regionalCode":"0",
-				"regionId":"19",
-				"regionName":"West Coast",
-				"divisionId":"12",
+				"regionId":"24",
+				"regionName":"Europe South",
+				"divisionId":"1",
 				"profession":"0",
-				"affiliateId":"3983",
-				"affiliateName":"CrossFit Santa Ynez Valley",
-				"age":"40",
+				"affiliateId":"15652",
+				"affiliateName":"CrossFit Dietikon",
+				"age":"31",
+				"height":"177 cm",
+				"weight":"84 kg",
+				"teamCaptain":"0"
+			},
+
+			"ui":
+			{
+				"highlight":false
+			},
+
+			"scores":
+			[
+				{
+				"ordinal":1,
+				"rank":"86955",
+				"score":"12690000",
+				"scoreDisplay":"269 reps",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"b980c62d812e55a2b043",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"8 rounds +\n8 toes-to-bars\n5 clean & jerks","judge":"Marco Pultrone","affiliate":"CrossFit Dietikon",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":2,
+				"rank":"67799",
+				"score":"11100220",
+				"scoreDisplay":"8:20",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"1bc8ef581d0a9713984e",
+				"scaled":"0",
+				"video":"0",
+				"time":500,"breakdown":"110 reps\n209 lb.","judge":"Marco Pultrone","affiliate":"CrossFit Dietikon",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":3,
+				"rank":"80668",
+				"score":"12090220",
+				"scoreDisplay":"209 lb",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"a10fa21f6fa1ddc50a7d",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"209 lb.","time":500,"judge":"Marco Pultrone","affiliate":"CrossFit Dietikon",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
+				"heat":"",
+				"lane":""
+				}
+
+			],
+
+			"overallRank":"76565",
+			"overallScore":"238262",
+			"nextStage":""
+		},
+		{
+			"entrant":
+			{
+				"competitorId":"1173917",
+				"competitorName":"Jeffrey Bolduc",
+				"firstName":"Jeffrey",
+				"lastName":"Bolduc",
+				"status":"ACT",
+				"bibId":"",
+				"gender":"M",
+				"profilePicS3key":"pukie.png",
+				"countryShortCode":"",
+				"regionalCode":"4",
+				"regionId":"11",
+				"regionName":"North East",
+				"divisionId":"18",
+				"profession":"0",
+				"affiliateId":"6871",
+				"affiliateName":"Greenwich CrossFit",
+				"age":"36",
 				"height":"",
 				"weight":"",
 				"teamCaptain":"0"
@@ -2824,72 +1459,85 @@
 			[
 				{
 				"ordinal":1,
-				"rank":"95766",
-				"score":"12620000",
-				"scoreDisplay":"262 reps",
+				"rank":"104547",
+				"score":"12560000",
+				"scoreDisplay":"256 reps",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"3e45fd1406510560c9fa",
+				"scoreIdentifier":"62926aa100b0134ccdd5",
 				"scaled":"0",
 				"video":"0",
-				"breakdown":"8 rounds +\n6 toes-to-bars","judge":"Carrie McKnight","affiliate":"CrossFit Santa Ynez Valley",
+				"breakdown":"8 rounds +\n0 toes-to-bars","judge":"Ried","affiliate":"Greenwich CrossFit",
 				"heat":"",
 				"lane":""
 				}
 ,				{
 				"ordinal":2,
-				"rank":"64425",
-				"score":"11100223",
-				"scoreDisplay":"8:17",
+				"rank":"70300",
+				"score":"11100215",
+				"scoreDisplay":"8:25",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"75da95ebaca8aa5433cb",
+				"scoreIdentifier":"f8a151c29682e6606702",
 				"scaled":"0",
 				"video":"0",
-				"time":497,"breakdown":"110 reps\n215 lb.","judge":"Giorgio Murru","affiliate":"CrossFit Santa Ynez Valley",
+				"time":505,"breakdown":"110 reps\n225 lb.","judge":"Jess","affiliate":"Greenwich CrossFit",
 				"heat":"",
 				"lane":""
 				}
 ,				{
 				"ordinal":3,
-				"rank":"71690",
-				"score":"12150223",
-				"scoreDisplay":"215 lb",
+				"rank":"60583",
+				"score":"12250215",
+				"scoreDisplay":"225 lb",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"d6f7afb19a0bb8e16ffa",
+				"scoreIdentifier":"30854d85f65a64ea1516",
 				"scaled":"0",
 				"video":"0",
-				"breakdown":"215 lb.","time":497,"judge":"Giorgio Murru","affiliate":"CrossFit Santa Ynez Valley",
+				"breakdown":"225 lb.","time":505,"judge":"Jess","affiliate":"Greenwich CrossFit",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
 				"heat":"",
 				"lane":""
 				}
 
 			],
 
-			"overallRank":"74686",
-			"overallScore":"231881",
+			"overallRank":"76566",
+			"overallScore":"238270",
 			"nextStage":""
 		},
 		{
 			"entrant":
 			{
-				"competitorId":"915138",
-				"competitorName":"Tomas Wyler",
-				"firstName":"Tomas",
-				"lastName":"Wyler",
+				"competitorId":"641558",
+				"competitorName":"Gonzalo Velazquez",
+				"firstName":"Gonzalo",
+				"lastName":"Velazquez",
 				"status":"ACT",
 				"bibId":"",
 				"gender":"M",
-				"profilePicS3key":"3d36c-P915138_2-184.jpg",
+				"profilePicS3key":"5d182-P641558_1-184.jpg",
 				"countryShortCode":"",
 				"regionalCode":"0",
-				"regionId":"27",
-				"regionName":"South America",
-				"divisionId":"12",
-				"profession":"0",
-				"affiliateId":"12061",
-				"affiliateName":"CrossFit Korvo",
-				"age":"41",
-				"height":"173 cm",
-				"weight":"79 kg",
+				"regionId":"24",
+				"regionName":"Europe South",
+				"divisionId":"1",
+				"profession":"128",
+				"affiliateId":"3962",
+				"affiliateName":"Area CrossFit",
+				"age":"21",
+				"height":"171 cm",
+				"weight":"68 kg",
 				"teamCaptain":"0"
 			},
 
@@ -2902,71 +1550,448 @@
 			[
 				{
 				"ordinal":1,
-				"rank":"104433",
+				"rank":"104547",
 				"score":"12560000",
 				"scoreDisplay":"256 reps",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"d20d993fcb4509457d4d",
+				"scoreIdentifier":"c13d47ab9035292f9fc3",
 				"scaled":"0",
 				"video":"0",
-				"breakdown":"8 rounds +\n0 toes-to-bars","judge":"Gonzalo Galante","affiliate":"CrossFit Korvo",
+				"breakdown":"8 rounds +\n0 toes-to-bars","judge":"Pablo Garcia Oteros","affiliate":"Area CrossFit",
 				"heat":"",
 				"lane":""
 				}
 ,				{
 				"ordinal":2,
-				"rank":"25080",
-				"score":"11100312",
-				"scoreDisplay":"6:48",
+				"rank":"70300",
+				"score":"11100215",
+				"scoreDisplay":"8:25",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"52381492da1b1609440d",
+				"scoreIdentifier":"5ccbc942b87bb959b394",
 				"scaled":"0",
 				"video":"0",
-				"time":408,"breakdown":"110 reps\n188 lb.","judge":"Gonzalo Galante","affiliate":"CrossFit Korvo",
+				"time":505,"breakdown":"110 reps\n225 lb.","judge":"Pablo Garcia Oteros","affiliate":"Area CrossFit",
 				"heat":"",
 				"lane":""
 				}
 ,				{
 				"ordinal":3,
-				"rank":"102369",
-				"score":"11880312",
-				"scoreDisplay":"188 lb",
+				"rank":"60583",
+				"score":"12250215",
+				"scoreDisplay":"225 lb",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"5093fb31262464156401",
+				"scoreIdentifier":"2932838c3f247f0e2bab",
 				"scaled":"0",
 				"video":"0",
-				"breakdown":"188 lb.","time":408,"judge":"Gonzalo Galante","affiliate":"CrossFit Korvo",
+				"breakdown":"225 lb.","time":505,"judge":"Pablo Garcia Oteros","affiliate":"Area CrossFit",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
 				"heat":"",
 				"lane":""
 				}
 
 			],
 
-			"overallRank":"74687",
-			"overallScore":"231882",
+			"overallRank":"76566",
+			"overallScore":"238270",
 			"nextStage":""
 		},
 		{
 			"entrant":
 			{
-				"competitorId":"685057",
-				"competitorName":"David Dufrene",
-				"firstName":"David",
-				"lastName":"Dufrene",
+				"competitorId":"305125",
+				"competitorName":"Brandon Alred",
+				"firstName":"Brandon",
+				"lastName":"Alred",
 				"status":"ACT",
 				"bibId":"",
 				"gender":"M",
-				"profilePicS3key":"3761f-P685057_4-184.jpg",
+				"profilePicS3key":"3570c-P305125_2-184.jpg",
+				"countryShortCode":"",
+				"regionalCode":"7",
+				"regionId":"14",
+				"regionName":"South Central",
+				"divisionId":"18",
+				"profession":"64",
+				"affiliateId":"20108",
+				"affiliateName":"CrossFit Rhokee",
+				"age":"35",
+				"height":"71 in",
+				"weight":"153 lb",
+				"teamCaptain":"0"
+			},
+
+			"ui":
+			{
+				"highlight":false
+			},
+
+			"scores":
+			[
+				{
+				"ordinal":1,
+				"rank":"104547",
+				"score":"12560000",
+				"scoreDisplay":"256 reps",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"292ed83698cd1475b711",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"8 rounds +\n0 toes-to-bars","judge":"Gabby Alred","affiliate":"CrossFit Rhokee",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":2,
+				"rank":"70300",
+				"score":"11100215",
+				"scoreDisplay":"8:25",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"6e944eba43424ef31dbd",
+				"scaled":"0",
+				"video":"0",
+				"time":505,"breakdown":"110 reps\n225 lb.","judge":"Gabby Alred","affiliate":"CrossFit Rhokee",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":3,
+				"rank":"60583",
+				"score":"12250215",
+				"scoreDisplay":"225 lb",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"b2996cdf29767be97fed",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"225 lb.","time":505,"judge":"Gabby Alred","affiliate":"CrossFit Rhokee",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
+				"heat":"",
+				"lane":""
+				}
+
+			],
+
+			"overallRank":"76566",
+			"overallScore":"238270",
+			"nextStage":""
+		},
+		{
+			"entrant":
+			{
+				"competitorId":"1070092",
+				"competitorName":"Chris Henderson",
+				"firstName":"Chris",
+				"lastName":"Henderson",
+				"status":"ACT",
+				"bibId":"",
+				"gender":"M",
+				"profilePicS3key":"pukie.png",
+				"countryShortCode":"",
+				"regionalCode":"1",
+				"regionId":"15",
+				"regionName":"South East",
+				"divisionId":"12",
+				"profession":"0",
+				"affiliateId":"3559",
+				"affiliateName":"CrossFit Kendall",
+				"age":"40",
+				"height":"76 in",
+				"weight":"260 lb",
+				"teamCaptain":"0"
+			},
+
+			"ui":
+			{
+				"highlight":false
+			},
+
+			"scores":
+			[
+				{
+				"ordinal":1,
+				"rank":"94927",
+				"score":"12630000",
+				"scoreDisplay":"263 reps",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"095a898a2bd1d1368459",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"8 rounds +\n7 toes-to-bars","judge":"Paul Campbell","affiliate":"CrossFit Kendall",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":2,
+				"rank":"118072",
+				"score":"11100111",
+				"scoreDisplay":"10:09",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"36758d545f3548a94e81",
+				"scaled":"0",
+				"video":"0",
+				"time":609,"breakdown":"110 reps\n265 lb.","judge":"Paul Campbell","affiliate":"CrossFit Kendall",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":3,
+				"rank":"22434",
+				"score":"12650111",
+				"scoreDisplay":"265 lb",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"01ffac4a8ded1ffca763",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"265 lb.","time":609,"judge":"Paul Campbell","affiliate":"CrossFit Kendall",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
+				"heat":"",
+				"lane":""
+				}
+
+			],
+
+			"overallRank":"76569",
+			"overallScore":"238273",
+			"nextStage":""
+		},
+		{
+			"entrant":
+			{
+				"competitorId":"987826",
+				"competitorName":"Max Pasarow",
+				"firstName":"Max",
+				"lastName":"Pasarow",
+				"status":"ACT",
+				"bibId":"",
+				"gender":"M",
+				"profilePicS3key":"pukie.png",
 				"countryShortCode":"",
 				"regionalCode":"0",
-				"regionId":"24",
-				"regionName":"Europe South",
-				"divisionId":"12",
-				"profession":"2",
-				"affiliateId":"14862",
-				"affiliateName":"CrossFit Pour Tous",
-				"age":"42",
-				"height":"179 cm",
+				"regionId":"19",
+				"regionName":"West Coast",
+				"divisionId":"1",
+				"profession":"0",
+				"affiliateId":"5768",
+				"affiliateName":"CrossFit WorldPort",
+				"age":"31",
+				"height":"68 in",
+				"weight":"166 lb",
+				"teamCaptain":"0"
+			},
+
+			"ui":
+			{
+				"highlight":false
+			},
+
+			"scores":
+			[
+				{
+				"ordinal":1,
+				"rank":"64089",
+				"score":"12910000",
+				"scoreDisplay":"291 reps",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"0fbca2c6db296184dbc3",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"9 rounds +\n3 toes-to-bars","judge":"Parker Robbins","affiliate":"CrossFit WorldPort",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":2,
+				"rank":"71748",
+				"score":"11100212",
+				"scoreDisplay":"8:28",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"4674c455c00f766fd440",
+				"scaled":"0",
+				"video":"0",
+				"time":508,"breakdown":"110 reps\n196 lb.","judge":"Parker Robbins","affiliate":"CrossFit WorldPort",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":3,
+				"rank":"99597",
+				"score":"11960212",
+				"scoreDisplay":"196 lb",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"388b098efa756efc8f5a",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"196 lb.","time":508,"judge":"Parker Robbins","affiliate":"CrossFit WorldPort",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
+				"heat":"",
+				"lane":""
+				}
+
+			],
+
+			"overallRank":"76570",
+			"overallScore":"238274",
+			"nextStage":""
+		},
+		{
+			"entrant":
+			{
+				"competitorId":"1056533",
+				"competitorName":"Tony Flamenco",
+				"firstName":"Tony",
+				"lastName":"Flamenco",
+				"status":"ACT",
+				"bibId":"",
+				"gender":"M",
+				"profilePicS3key":"caff6-P1056533_1-184.jpg",
+				"countryShortCode":"",
+				"regionalCode":"0",
+				"regionId":"26",
+				"regionName":"Central America",
+				"divisionId":"1",
+				"profession":"0",
+				"affiliateId":"12986",
+				"affiliateName":"CrossFit Fortaleza",
+				"age":"25",
+				"height":"176 cm",
+				"weight":"155 lb",
+				"teamCaptain":"0"
+			},
+
+			"ui":
+			{
+				"highlight":false
+			},
+
+			"scores":
+			[
+				{
+				"ordinal":1,
+				"rank":"101733",
+				"score":"12580000",
+				"scoreDisplay":"258 reps",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"96a91b9d36dec3b05eb5",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"8 rounds +\n2 toes-to-bars","judge":"Carlos Escalante","affiliate":"CrossFit Fortaleza",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":2,
+				"rank":"94958",
+				"score":"11100164",
+				"scoreDisplay":"9:16",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"d43d0acea58bd412ead2",
+				"scaled":"0",
+				"video":"0",
+				"time":556,"breakdown":"110 reps\n245 lb.","judge":"Jaime Varela","affiliate":"CrossFit Fortaleza",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":3,
+				"rank":"38744",
+				"score":"12450164",
+				"scoreDisplay":"245 lb",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"38e01dae530c8be7169a",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"245 lb.","time":556,"judge":"Jaime Varela","affiliate":"CrossFit Fortaleza",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
+				"heat":"",
+				"lane":""
+				}
+
+			],
+
+			"overallRank":"76571",
+			"overallScore":"238275",
+			"nextStage":""
+		},
+		{
+			"entrant":
+			{
+				"competitorId":"900606",
+				"competitorName":"Jesus Vergara Cortes",
+				"firstName":"Jesus",
+				"lastName":"Vergara Cortes",
+				"status":"ACT",
+				"bibId":"",
+				"gender":"M",
+				"profilePicS3key":"9e4df-P900606_1-184.jpg",
+				"countryShortCode":"",
+				"regionalCode":"0",
+				"regionId":"26",
+				"regionName":"Central America",
+				"divisionId":"1",
+				"profession":"128",
+				"affiliateId":"0",
+				"affiliateName":"",
+				"age":"28",
+				"height":"180 cm",
 				"weight":"80 kg",
 				"teamCaptain":"0"
 			},
@@ -2980,150 +2005,85 @@
 			[
 				{
 				"ordinal":1,
-				"rank":"100183",
-				"score":"12590000",
-				"scoreDisplay":"259 reps",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"86f1ebf1a8426d431eca",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"8 rounds +\n3 toes-to-bars","judge":"Eva Petitdemange","affiliate":"CrossFit Pour Tous",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":2,
-				"rank":"65390",
-				"score":"11100221",
-				"scoreDisplay":"8:19",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"3dac48da9d7d79b3896b",
-				"scaled":"0",
-				"video":"0",
-				"time":499,"breakdown":"110 reps\n220 lb.","judge":"Delphine Morain","affiliate":"CrossFit Pour Tous",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":3,
-				"rank":"66309",
-				"score":"12200221",
-				"scoreDisplay":"220 lb",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"d9e884994020253c7f19",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"220 lb.","time":499,"judge":"Delphine Morain","affiliate":"CrossFit Pour Tous",
-				"heat":"",
-				"lane":""
-				}
-
-			],
-
-			"overallRank":"74687",
-			"overallScore":"231882",
-			"nextStage":""
-		},
-		{
-			"entrant":
-			{
-				"competitorId":"1046863",
-				"competitorName":"Thomas Page",
-				"firstName":"Thomas",
-				"lastName":"Page",
-				"status":"ACT",
-				"bibId":"",
-				"gender":"M",
-				"profilePicS3key":"pukie.png",
-				"countryShortCode":"",
-				"regionalCode":"1",
-				"regionId":"9",
-				"regionName":"Mid Atlantic",
-				"divisionId":"12",
-				"profession":"0",
-				"affiliateId":"4374",
-				"affiliateName":"CrossFit Valley Forge",
-				"age":"40",
-				"height":"76 in",
-				"weight":"215 lb",
-				"teamCaptain":"0"
-			},
-
-			"ui":
-			{
-				"highlight":false
-			},
-
-			"scores":
-			[
-				{
-				"ordinal":1,
-				"rank":"80187",
+				"rank":"80287",
 				"score":"12740000",
 				"scoreDisplay":"274 reps",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"f94618b5e56650a432a2",
+				"scoreIdentifier":"528981c64c1d18e0a441",
 				"scaled":"0",
 				"video":"0",
-				"breakdown":"8 rounds +\n8 toes-to-bars\n10 clean & jerks","judge":"Ron Lockhart","affiliate":"CrossFit Valley Forge",
+				"breakdown":"8 rounds +\n8 toes-to-bars\n10 clean & jerks","judge":"Mark Hoffmann","affiliate":"CrossFit TANKA",
 				"heat":"",
 				"lane":""
 				}
 ,				{
 				"ordinal":2,
-				"rank":"107616",
-				"score":"11100128",
-				"scoreDisplay":"9:52",
+				"rank":"93088",
+				"score":"11100168",
+				"scoreDisplay":"9:12",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"d23d12ebe4b31e7f1d17",
+				"scoreIdentifier":"6926e2d0fa0aeace2a21",
 				"scaled":"0",
 				"video":"0",
-				"time":592,"breakdown":"110 reps\n237 lb.","judge":"Jimmy Arkin","affiliate":"CrossFit Valley Forge",
+				"time":552,"breakdown":"110 reps\n225 lb.","judge":"Mark Hoffmann","affiliate":"CrossFit TANKA",
 				"heat":"",
 				"lane":""
 				}
 ,				{
 				"ordinal":3,
-				"rank":"44086",
-				"score":"12370128",
-				"scoreDisplay":"237 lb",
+				"rank":"62060",
+				"score":"12250168",
+				"scoreDisplay":"225 lb",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"3af6e8187045f860ac71",
+				"scoreIdentifier":"db7d03b93f65fc21d6e6",
 				"scaled":"0",
 				"video":"0",
-				"breakdown":"237 lb.","time":592,"judge":"Jimmy Arkin","affiliate":"CrossFit Valley Forge",
+				"breakdown":"225 lb.","time":552,"judge":"Mark Hoffmann","affiliate":"CrossFit TANKA",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
 				"heat":"",
 				"lane":""
 				}
 
 			],
 
-			"overallRank":"74689",
-			"overallScore":"231889",
+			"overallRank":"76571",
+			"overallScore":"238275",
 			"nextStage":""
 		},
 		{
 			"entrant":
 			{
-				"competitorId":"1246749",
-				"competitorName":"Romain Sibre",
-				"firstName":"Romain",
-				"lastName":"Sibre",
+				"competitorId":"1215883",
+				"competitorName":"Sébastien Zbinden",
+				"firstName":"Sébastien",
+				"lastName":"Zbinden",
 				"status":"ACT",
 				"bibId":"",
 				"gender":"M",
-				"profilePicS3key":"pukie.png",
+				"profilePicS3key":"89bf9-P1215883_1-184.jpg",
 				"countryShortCode":"",
 				"regionalCode":"0",
 				"regionId":"24",
 				"regionName":"Europe South",
 				"divisionId":"1",
-				"profession":"0",
-				"affiliateId":"15406",
-				"affiliateName":"CrossFit Belfort",
-				"age":"30",
-				"height":"183 cm",
-				"weight":"85 kg",
+				"profession":"2",
+				"affiliateId":"20297",
+				"affiliateName":"CrossFit Wild Mountain",
+				"age":"33",
+				"height":"180 cm",
+				"weight":"82 kg",
 				"teamCaptain":"0"
 			},
 
@@ -3136,618 +2096,85 @@
 			[
 				{
 				"ordinal":1,
-				"rank":"95766",
-				"score":"12620000",
-				"scoreDisplay":"262 reps",
+				"rank":"60313",
+				"score":"12940000",
+				"scoreDisplay":"294 reps",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"7908dd53de6fd197abe5",
+				"scoreIdentifier":"975760449a2ff0db4065",
 				"scaled":"0",
 				"video":"0",
-				"breakdown":"8 rounds +\n6 toes-to-bars","judge":"Sofien Zaier","affiliate":"CrossFit Belfort",
+				"breakdown":"9 rounds +\n6 toes-to-bars","judge":"Kevin Purro","affiliate":"CrossFit Wild Mountain",
 				"heat":"",
 				"lane":""
 				}
 ,				{
 				"ordinal":2,
-				"rank":"69619",
-				"score":"11100212",
-				"scoreDisplay":"8:28",
+				"rank":"78820",
+				"score":"11100198",
+				"scoreDisplay":"8:42",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"d496aadcbd1d8c72db87",
+				"scoreIdentifier":"81a8faa756ec27c13808",
 				"scaled":"0",
 				"video":"0",
-				"time":508,"breakdown":"110 reps\n220 lb.","judge":"Sofien Zaier","affiliate":"CrossFit Belfort",
+				"time":522,"breakdown":"110 reps\n198 lb.","judge":"Kevin Purro","affiliate":"CrossFit Wild Mountain",
 				"heat":"",
 				"lane":""
 				}
 ,				{
 				"ordinal":3,
-				"rank":"66506",
-				"score":"12200212",
-				"scoreDisplay":"220 lb",
+				"rank":"96305",
+				"score":"11980198",
+				"scoreDisplay":"198 lb",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"f1f3cdb8eb4100971a42",
+				"scoreIdentifier":"65358b5ae69eeab9c2ee",
 				"scaled":"0",
 				"video":"0",
-				"breakdown":"220 lb.","time":508,"judge":"Sofien Zaier","affiliate":"CrossFit Belfort",
+				"breakdown":"198 lb.","time":522,"judge":"Kevin Purro","affiliate":"CrossFit Wild Mountain",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
 				"heat":"",
 				"lane":""
 				}
 
 			],
 
-			"overallRank":"74690",
-			"overallScore":"231891",
+			"overallRank":"76573",
+			"overallScore":"238278",
 			"nextStage":""
 		},
 		{
 			"entrant":
 			{
-				"competitorId":"1227274",
-				"competitorName":"Jamie Campbell",
-				"firstName":"Jamie",
-				"lastName":"Campbell",
+				"competitorId":"922178",
+				"competitorName":"Anton Goryachev",
+				"firstName":"Anton",
+				"lastName":"Goryachev",
 				"status":"ACT",
 				"bibId":"",
 				"gender":"M",
-				"profilePicS3key":"c685c-P1227274_1-184.jpg",
-				"countryShortCode":"",
-				"regionalCode":"0",
-				"regionId":"23",
-				"regionName":"Europe Central",
-				"divisionId":"18",
-				"profession":"0",
-				"affiliateId":"17177",
-				"affiliateName":"CrossFit 1298",
-				"age":"36",
-				"height":"170 cm",
-				"weight":"79 kg",
-				"teamCaptain":"0"
-			},
-
-			"ui":
-			{
-				"highlight":false
-			},
-
-			"scores":
-			[
-				{
-				"ordinal":1,
-				"rank":"112028",
-				"score":"12480000",
-				"scoreDisplay":"248 reps",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"ffc8984c143155c9f07a",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"7 rounds +\n8 toes-to-bars\n10 clean & jerks\n6 calories","judge":"Mark Petrie","affiliate":"CrossFit 1298",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":2,
-				"rank":"54084",
-				"score":"11100245",
-				"scoreDisplay":"7:55",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"752b65f1e4722f0d53a1",
-				"scaled":"0",
-				"video":"0",
-				"time":475,"breakdown":"110 reps\n220 lb.","judge":"Scott Hamilton","affiliate":"CrossFit 1298",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":3,
-				"rank":"65783",
-				"score":"12200245",
-				"scoreDisplay":"220 lb",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"4f42604061d135f47868",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"220 lb.","time":475,"judge":"Scott Hamilton","affiliate":"CrossFit 1298",
-				"heat":"",
-				"lane":""
-				}
-
-			],
-
-			"overallRank":"74691",
-			"overallScore":"231895",
-			"nextStage":""
-		},
-		{
-			"entrant":
-			{
-				"competitorId":"474371",
-				"competitorName":"Vladimir Chadkov",
-				"firstName":"Vladimir",
-				"lastName":"Chadkov",
-				"status":"ACT",
-				"bibId":"",
-				"gender":"M",
-				"profilePicS3key":"30117-P474371_1-184.jpg",
+				"profilePicS3key":"5234b-P922178_3-184.jpg",
 				"countryShortCode":"",
 				"regionalCode":"0",
 				"regionId":"22",
 				"regionName":"Europe North",
-				"divisionId":"3",
-				"profession":"0",
-				"affiliateId":"5777",
-				"affiliateName":"CrossFit Severok",
-				"age":"46",
-				"height":"170 cm",
-				"weight":"83 kg",
-				"teamCaptain":"0"
-			},
-
-			"ui":
-			{
-				"highlight":false
-			},
-
-			"scores":
-			[
-				{
-				"ordinal":1,
-				"rank":"79205",
-				"score":"12750000",
-				"scoreDisplay":"275 reps",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"6b1a3ef19992df28ee25",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"8 rounds +\n8 toes-to-bars\n10 clean & jerks\n1 calories","judge":"Sergey Gorin","affiliate":"CrossFit Severok",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":2,
-				"rank":"80261",
-				"score":"11100190",
-				"scoreDisplay":"8:50",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"f8f220c5f734bb2052d3",
-				"scaled":"0",
-				"video":"0",
-				"time":530,"breakdown":"110 reps\n215 lb.","judge":"Sergey Gorin","affiliate":"CrossFit Severok",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":3,
-				"rank":"72435",
-				"score":"12150190",
-				"scoreDisplay":"215 lb",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"7405918cbc89c40c65b0",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"215 lb.","time":530,"judge":"Sergey Gorin","affiliate":"CrossFit Severok",
-				"heat":"",
-				"lane":""
-				}
-
-			],
-
-			"overallRank":"74692",
-			"overallScore":"231901",
-			"nextStage":""
-		},
-		{
-			"entrant":
-			{
-				"competitorId":"110074",
-				"competitorName":"Jesse Martin",
-				"firstName":"Jesse",
-				"lastName":"Martin",
-				"status":"ACT",
-				"bibId":"",
-				"gender":"M",
-				"profilePicS3key":"8995c-P110074_3-184.jpg",
-				"countryShortCode":"",
-				"regionalCode":"0",
-				"regionId":"19",
-				"regionName":"West Coast",
-				"divisionId":"18",
-				"profession":"0",
-				"affiliateId":"4693",
-				"affiliateName":"CrossFit Anacortes",
-				"age":"39",
-				"height":"71 in",
-				"weight":"184 lb",
-				"teamCaptain":"0"
-			},
-
-			"ui":
-			{
-				"highlight":false
-			},
-
-			"scores":
-			[
-				{
-				"ordinal":1,
-				"rank":"79205",
-				"score":"12750000",
-				"scoreDisplay":"275 reps",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"1df0d5501d55b24f659f",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"8 rounds +\n8 toes-to-bars\n10 clean & jerks\n1 calories","judge":"Brooke Crowder","affiliate":"CrossFit Anacortes",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":2,
-				"rank":"80261",
-				"score":"11100190",
-				"scoreDisplay":"8:50",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"e6ed0949ee8a9011739c",
-				"scaled":"0",
-				"video":"0",
-				"time":530,"breakdown":"110 reps\n215 lb.","judge":"Westin Mackenzie","affiliate":"CrossFit Anacortes",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":3,
-				"rank":"72435",
-				"score":"12150190",
-				"scoreDisplay":"215 lb",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"e3bee083057448967bb1",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"215 lb.","time":530,"judge":"Westin Mackenzie","affiliate":"CrossFit Anacortes",
-				"heat":"",
-				"lane":""
-				}
-
-			],
-
-			"overallRank":"74692",
-			"overallScore":"231901",
-			"nextStage":""
-		},
-		{
-			"entrant":
-			{
-				"competitorId":"885982",
-				"competitorName":"Hugo Dutrey",
-				"firstName":"Hugo",
-				"lastName":"Dutrey",
-				"status":"ACT",
-				"bibId":"",
-				"gender":"M",
-				"profilePicS3key":"3bd0e-P885982_2-184.jpg",
-				"countryShortCode":"",
-				"regionalCode":"0",
-				"regionId":"24",
-				"regionName":"Europe South",
 				"divisionId":"1",
 				"profession":"0",
-				"affiliateId":"14269",
-				"affiliateName":"CrossFit Wonders",
-				"age":"27",
-				"height":"172 cm",
-				"weight":"74 kg",
-				"teamCaptain":"0"
-			},
-
-			"ui":
-			{
-				"highlight":false
-			},
-
-			"scores":
-			[
-				{
-				"ordinal":1,
-				"rank":"90386",
-				"score":"12660000",
-				"scoreDisplay":"266 reps",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"bd783f3a3097b94f59f2",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"8 rounds +\n8 toes-to-bars\n2 clean & jerks","judge":"Mohammed Mokrani","affiliate":"CrossFit Wonders",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":2,
-				"rank":"63419",
-				"score":"11100225",
-				"scoreDisplay":"8:15",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"d06a308832bb70e4e73f",
-				"scaled":"0",
-				"video":"0",
-				"time":495,"breakdown":"110 reps\n209 lb.","judge":"Mohammed Mokrani","affiliate":"CrossFit Wonders",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":3,
-				"rank":"78103",
-				"score":"12090225",
-				"scoreDisplay":"209 lb",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"bd573fdb6802c9c936ff",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"209 lb.","time":495,"judge":"Mohammed Mokrani","affiliate":"CrossFit Wonders",
-				"heat":"",
-				"lane":""
-				}
-
-			],
-
-			"overallRank":"74694",
-			"overallScore":"231908",
-			"nextStage":""
-		},
-		{
-			"entrant":
-			{
-				"competitorId":"1022420",
-				"competitorName":"Morgan Ruddiman",
-				"firstName":"Morgan",
-				"lastName":"Ruddiman",
-				"status":"ACT",
-				"bibId":"",
-				"gender":"M",
-				"profilePicS3key":"pukie.png",
-				"countryShortCode":"",
-				"regionalCode":"0",
-				"regionId":"19",
-				"regionName":"West Coast",
-				"divisionId":"1",
-				"profession":"0",
-				"affiliateId":"11891",
-				"affiliateName":"CrossFit Salmon Creek",
-				"age":"33",
-				"height":"76 in",
-				"weight":"208 lb",
-				"teamCaptain":"0"
-			},
-
-			"ui":
-			{
-				"highlight":false
-			},
-
-			"scores":
-			[
-				{
-				"ordinal":1,
-				"rank":"51130",
-				"score":"13030000",
-				"scoreDisplay":"303 reps",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"c3c8cc080ea7f3ffcb92",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"9 rounds +\n8 toes-to-bars\n7 clean & jerks","judge":"Steve Rodriguez","affiliate":"CrossFit Salmon Creek",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":2,
-				"rank":"73116",
-				"score":"11100205",
-				"scoreDisplay":"8:35",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"a9aef6c846dcd44378cb",
-				"scaled":"0",
-				"video":"0",
-				"time":515,"breakdown":"110 reps\n185 lb.","judge":"Paul Reed","affiliate":"CrossFit Fort Vancouver",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":3,
-				"rank":"107666",
-				"score":"11850205",
-				"scoreDisplay":"185 lb",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"e381d224c2b66ac1a6c8",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"185 lb.","time":515,"judge":"Paul Reed","affiliate":"CrossFit Fort Vancouver",
-				"heat":"",
-				"lane":""
-				}
-
-			],
-
-			"overallRank":"74695",
-			"overallScore":"231912",
-			"nextStage":""
-		},
-		{
-			"entrant":
-			{
-				"competitorId":"966449",
-				"competitorName":"Kennen Morris",
-				"firstName":"Kennen",
-				"lastName":"Morris",
-				"status":"ACT",
-				"bibId":"",
-				"gender":"M",
-				"profilePicS3key":"pukie.png",
-				"countryShortCode":"",
-				"regionalCode":"0",
-				"regionId":"19",
-				"regionName":"West Coast",
-				"divisionId":"1",
-				"profession":"0",
-				"affiliateId":"8758",
-				"affiliateName":"Grass Valley CrossFit",
-				"age":"27",
-				"height":"73 in",
-				"weight":"215 lb",
-				"teamCaptain":"0"
-			},
-
-			"ui":
-			{
-				"highlight":false
-			},
-
-			"scores":
-			[
-				{
-				"ordinal":1,
-				"rank":"36997",
-				"score":"13200000",
-				"scoreDisplay":"320 reps",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"56a5561abd02e0ef9b67",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"10 rounds +\n0 toes-to-bars","judge":"Brandon Bergeron","affiliate":"Grass Valley CrossFit",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":2,
-				"rank":"132608",
-				"score":"11100059",
-				"scoreDisplay":"11:01",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"6462713735948307bd85",
-				"scaled":"0",
-				"video":"0",
-				"time":661,"breakdown":"110 reps\n225 lb.","judge":"Brandon Bergeron","affiliate":"Grass Valley CrossFit",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":3,
-				"rank":"62310",
-				"score":"12250059",
-				"scoreDisplay":"225 lb",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"0ebd64cf66c975e10fa2",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"225 lb.","time":661,"judge":"Brandon Bergeron","affiliate":"Grass Valley CrossFit",
-				"heat":"",
-				"lane":""
-				}
-
-			],
-
-			"overallRank":"74696",
-			"overallScore":"231915",
-			"nextStage":""
-		},
-		{
-			"entrant":
-			{
-				"competitorId":"1053401",
-				"competitorName":"Patrick Ryan",
-				"firstName":"Patrick",
-				"lastName":"Ryan",
-				"status":"ACT",
-				"bibId":"",
-				"gender":"M",
-				"profilePicS3key":"0b508-P1053401_1-184.jpg",
-				"countryShortCode":"",
-				"regionalCode":"3",
-				"regionId":"10",
-				"regionName":"North Central",
-				"divisionId":"1",
-				"profession":"2",
-				"affiliateId":"9128",
-				"affiliateName":"CrossFit Reverence",
-				"age":"30",
-				"height":"72 in",
-				"weight":"175 lb",
-				"teamCaptain":"0"
-			},
-
-			"ui":
-			{
-				"highlight":false
-			},
-
-			"scores":
-			[
-				{
-				"ordinal":1,
-				"rank":"77583",
-				"score":"12770000",
-				"scoreDisplay":"277 reps",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"b467a35cc788ca392b19",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"8 rounds +\n8 toes-to-bars\n10 clean & jerks\n3 calories","judge":"Davina Collins","affiliate":"CrossFit Reverence",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":2,
-				"rank":"73614",
-				"score":"11100204",
-				"scoreDisplay":"8:36",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"c3583ecafe961d1982f2",
-				"scaled":"0",
-				"video":"0",
-				"time":516,"breakdown":"110 reps\n206 lb.","judge":"Rick Dinsmore","affiliate":"CrossFit Reverence",
-				"heat":"",
-				"lane":""
-				}
-,				{
-				"ordinal":3,
-				"rank":"80726",
-				"score":"12060204",
-				"scoreDisplay":"206 lb",
-				"mobileScoreDisplay":"",
-				"scoreIdentifier":"4e94bbacc1b7fb00a155",
-				"scaled":"0",
-				"video":"0",
-				"breakdown":"206 lb.","time":516,"judge":"Rick Dinsmore","affiliate":"CrossFit Reverence",
-				"heat":"",
-				"lane":""
-				}
-
-			],
-
-			"overallRank":"74697",
-			"overallScore":"231923",
-			"nextStage":""
-		},
-		{
-			"entrant":
-			{
-				"competitorId":"871815",
-				"competitorName":"Ricardo Santos",
-				"firstName":"Ricardo",
-				"lastName":"Santos",
-				"status":"ACT",
-				"bibId":"",
-				"gender":"M",
-				"profilePicS3key":"d6f2b-P871815_1-184.jpg",
-				"countryShortCode":"",
-				"regionalCode":"0",
-				"regionId":"27",
-				"regionName":"South America",
-				"divisionId":"1",
-				"profession":"0",
-				"affiliateId":"4228",
-				"affiliateName":"CrossFit Tuluka Nuñez",
+				"affiliateId":"15641",
+				"affiliateName":"CrossFit 19.05",
 				"age":"29",
-				"height":"182 cm",
-				"weight":"83 kg",
+				"height":"180 cm",
+				"weight":"80 kg",
 				"teamCaptain":"0"
 			},
 
@@ -3760,70 +2187,83 @@
 			[
 				{
 				"ordinal":1,
-				"rank":"116330",
-				"score":"12420000",
-				"scoreDisplay":"242 reps",
+				"rank":"65308",
+				"score":"12900000",
+				"scoreDisplay":"290 reps",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"4c2fa9d8263072efca3a",
+				"scoreIdentifier":"0b52cca69fd8aa379f11",
 				"scaled":"0",
 				"video":"0",
-				"breakdown":"7 rounds +\n8 toes-to-bars\n10 clean & jerks","judge":"Nicolas Ini","affiliate":"CrossFit Tuluka Nu\u00f1ez",
+				"breakdown":"9 rounds +\n2 toes-to-bars","judge":"Valeriy Soldatov","affiliate":"CrossFit 19.05",
 				"heat":"",
 				"lane":""
 				}
 ,				{
 				"ordinal":2,
-				"rank":"57591",
-				"score":"11100238",
-				"scoreDisplay":"8:02",
+				"rank":"65916",
+				"score":"11100224",
+				"scoreDisplay":"8:16",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"5cc0283488dafaa8762f",
+				"scoreIdentifier":"8f23e51276e5e6382a16",
 				"scaled":"0",
 				"video":"0",
-				"time":482,"breakdown":"110 reps\n225 lb.","judge":"Yanina Aguirre","affiliate":"CrossFit Tuluka Nu\u00f1ez",
+				"time":496,"breakdown":"110 reps\n192 lb.","judge":"Valeriy Soldatov","affiliate":"CrossFit 19.05",
 				"heat":"",
 				"lane":""
 				}
 ,				{
 				"ordinal":3,
-				"rank":"58004",
-				"score":"12250238",
-				"scoreDisplay":"225 lb",
+				"rank":"104214",
+				"score":"11920224",
+				"scoreDisplay":"192 lb",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"f240a8ae27b6068bc7db",
+				"scoreIdentifier":"0b984950e0315b723180",
 				"scaled":"0",
 				"video":"0",
-				"breakdown":"225 lb.","time":482,"judge":"Yanina Aguirre","affiliate":"CrossFit Tuluka Nu\u00f1ez",
+				"breakdown":"192 lb.","time":496,"judge":"Valeriy Soldatov","affiliate":"CrossFit 19.05",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
 				"heat":"",
 				"lane":""
 				}
 
 			],
 
-			"overallRank":"74698",
-			"overallScore":"231925",
+			"overallRank":"76573",
+			"overallScore":"238278",
 			"nextStage":""
 		},
 		{
 			"entrant":
 			{
-				"competitorId":"1109344",
-				"competitorName":"Levi Bailey",
-				"firstName":"Levi",
-				"lastName":"Bailey",
+				"competitorId":"1208807",
+				"competitorName":"Lars Wieters",
+				"firstName":"Lars",
+				"lastName":"Wieters",
 				"status":"ACT",
 				"bibId":"",
 				"gender":"M",
 				"profilePicS3key":"pukie.png",
 				"countryShortCode":"",
-				"regionalCode":"3",
-				"regionId":"6",
-				"regionName":"Central East",
-				"divisionId":"16",
+				"regionalCode":"0",
+				"regionId":"23",
+				"regionName":"Europe Central",
+				"divisionId":"1",
 				"profession":"0",
-				"affiliateId":"3220",
-				"affiliateName":"CrossFit Mayhem",
-				"age":"16",
+				"affiliateId":"9913",
+				"affiliateName":"CrossFit Altona",
+				"age":"30",
 				"height":"",
 				"weight":"",
 				"teamCaptain":"0"
@@ -3838,72 +2278,85 @@
 			[
 				{
 				"ordinal":1,
-				"rank":"80187",
-				"score":"12740000",
-				"scoreDisplay":"274 reps",
+				"rank":"66620",
+				"score":"12890000",
+				"scoreDisplay":"289 reps",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"887f48a47fe035fffa21",
+				"scoreIdentifier":"a46d53ddf00b802d0bfc",
 				"scaled":"0",
 				"video":"0",
-				"breakdown":"8 rounds +\n8 toes-to-bars\n10 clean & jerks","judge":"Nathaniel Jones","affiliate":"CrossFit Mayhem",
+				"breakdown":"9 rounds +\n1 toes-to-bars","judge":"Diana De Silva","affiliate":"CrossFit Altona",
 				"heat":"",
 				"lane":""
 				}
 ,				{
 				"ordinal":2,
-				"rank":"79341",
-				"score":"11100192",
-				"scoreDisplay":"8:48",
+				"rank":"72770",
+				"score":"11100210",
+				"scoreDisplay":"8:30",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"6d16c105a05a22c2733c",
+				"scoreIdentifier":"913d5dc57059cc1291e8",
 				"scaled":"0",
 				"video":"0",
-				"time":528,"breakdown":"110 reps\n215 lb.","judge":"Karli Qualls","affiliate":"CrossFit Mayhem",
+				"time":510,"breakdown":"110 reps\n198 lb.","judge":"Julian Leist","affiliate":"CrossFit Altona",
 				"heat":"",
 				"lane":""
 				}
 ,				{
 				"ordinal":3,
-				"rank":"72397",
-				"score":"12150192",
-				"scoreDisplay":"215 lb",
+				"rank":"96049",
+				"score":"11980210",
+				"scoreDisplay":"198 lb",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"fab82fdac86afea75c20",
+				"scoreIdentifier":"79726a0896bf3b386944",
 				"scaled":"0",
 				"video":"0",
-				"breakdown":"215 lb.","time":528,"judge":"Karli Qualls","affiliate":"CrossFit Mayhem",
+				"breakdown":"198 lb.","time":510,"judge":"Julian Leist","affiliate":"CrossFit Altona",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
 				"heat":"",
 				"lane":""
 				}
 
 			],
 
-			"overallRank":"74698",
-			"overallScore":"231925",
+			"overallRank":"76575",
+			"overallScore":"238279",
 			"nextStage":""
 		},
 		{
 			"entrant":
 			{
-				"competitorId":"510651",
-				"competitorName":"Mark Taylor",
-				"firstName":"Mark",
-				"lastName":"Taylor",
+				"competitorId":"481623",
+				"competitorName":"Thomas Styrk",
+				"firstName":"Thomas",
+				"lastName":"Styrk",
 				"status":"ACT",
 				"bibId":"",
 				"gender":"M",
-				"profilePicS3key":"58a12-P510651_1-184.jpg",
+				"profilePicS3key":"pukie.png",
 				"countryShortCode":"",
 				"regionalCode":"0",
-				"regionId":"21",
-				"regionName":"Australasia",
-				"divisionId":"1",
-				"profession":"32",
-				"affiliateId":"4996",
-				"affiliateName":"CrossFit Claremont",
-				"age":"34",
-				"height":"175 cm",
-				"weight":"75 kg",
+				"regionId":"22",
+				"regionName":"Europe North",
+				"divisionId":"12",
+				"profession":"0",
+				"affiliateId":"562",
+				"affiliateName":"CrossFit Copenhagen",
+				"age":"41",
+				"height":"174 cm",
+				"weight":"80 kg",
 				"teamCaptain":"0"
 			},
 
@@ -3916,48 +2369,2245 @@
 			[
 				{
 				"ordinal":1,
-				"rank":"57488",
-				"score":"12960000",
-				"scoreDisplay":"296 reps",
+				"rank":"76207",
+				"score":"12790000",
+				"scoreDisplay":"279 reps",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"5077847cd40ed23fa3ad",
+				"scoreIdentifier":"9f8ff5c7dcaceb4ac373",
 				"scaled":"0",
 				"video":"0",
-				"breakdown":"9 rounds +\n8 toes-to-bars","judge":"Mitchell Bell","affiliate":"CrossFit Claremont",
+				"breakdown":"8 rounds +\n8 toes-to-bars\n10 clean & jerks\n5 calories","judge":"Viktor Zeuthen","affiliate":"CrossFit Copenhagen",
 				"heat":"",
 				"lane":""
 				}
 ,				{
 				"ordinal":2,
-				"rank":"70614",
-				"score":"11100210",
-				"scoreDisplay":"8:30",
+				"rank":"81777",
+				"score":"11100192",
+				"scoreDisplay":"8:48",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"257905990c1ad0e53e01",
+				"scoreIdentifier":"aa55ce0a44893204836e",
 				"scaled":"0",
 				"video":"0",
-				"time":510,"breakdown":"110 reps\n187 lb.","judge":"Sean Young","affiliate":"CrossFit Claremont",
+				"time":528,"breakdown":"110 reps\n212 lb.","judge":"Viktor Zeuthen","affiliate":"CrossFit Copenhagen",
 				"heat":"",
 				"lane":""
 				}
 ,				{
 				"ordinal":3,
-				"rank":"103825",
-				"score":"11870210",
-				"scoreDisplay":"187 lb",
+				"rank":"77459",
+				"score":"12120192",
+				"scoreDisplay":"212 lb",
 				"mobileScoreDisplay":"",
-				"scoreIdentifier":"04f41feb5a64f22d517b",
+				"scoreIdentifier":"1891574a02f03b1e2e91",
 				"scaled":"0",
 				"video":"0",
-				"breakdown":"187 lb.","time":510,"judge":"Sean Young","affiliate":"CrossFit Claremont",
+				"breakdown":"212 lb.","time":528,"judge":"Viktor Zeuthen","affiliate":"CrossFit Copenhagen",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
 				"heat":"",
 				"lane":""
 				}
 
 			],
 
-			"overallRank":"74700",
-			"overallScore":"231927",
+			"overallRank":"76576",
+			"overallScore":"238283",
+			"nextStage":""
+		},
+		{
+			"entrant":
+			{
+				"competitorId":"677764",
+				"competitorName":"Marc-André Dickey",
+				"firstName":"Marc-André",
+				"lastName":"Dickey",
+				"status":"ACT",
+				"bibId":"",
+				"gender":"M",
+				"profilePicS3key":"7d6d7-P677764_1-184.jpg",
+				"countryShortCode":"",
+				"regionalCode":"0",
+				"regionId":"18",
+				"regionName":"Canada East",
+				"divisionId":"18",
+				"profession":"0",
+				"affiliateId":"4872",
+				"affiliateName":"CrossFit Repentigny L'Usine",
+				"age":"35",
+				"height":"68 in",
+				"weight":"165 lb",
+				"teamCaptain":"0"
+			},
+
+			"ui":
+			{
+				"highlight":false
+			},
+
+			"scores":
+			[
+				{
+				"ordinal":1,
+				"rank":"80287",
+				"score":"12740000",
+				"scoreDisplay":"274 reps",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"b8b59d98cef8a7cc4fab",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"8 rounds +\n8 toes-to-bars\n10 clean & jerks","judge":"Mike Brown","affiliate":"CrossFit Repentigny L'Usine",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":2,
+				"rank":"98979",
+				"score":"11100155",
+				"scoreDisplay":"9:25",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"bcb2dc6dd98d12ecfb78",
+				"scaled":"0",
+				"video":"0",
+				"time":565,"breakdown":"110 reps\n227 lb.","judge":"Mike Brown","affiliate":"CrossFit Repentigny L'Usine",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":3,
+				"rank":"56178",
+				"score":"12270155",
+				"scoreDisplay":"227 lb",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"fbd53633e4016c8f9b84",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"227 lb.","time":565,"judge":"Mike Brown","affiliate":"CrossFit Repentigny L'Usine",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
+				"heat":"",
+				"lane":""
+				}
+
+			],
+
+			"overallRank":"76577",
+			"overallScore":"238284",
+			"nextStage":""
+		},
+		{
+			"entrant":
+			{
+				"competitorId":"54766",
+				"competitorName":"John Williams",
+				"firstName":"John",
+				"lastName":"Williams",
+				"status":"ACT",
+				"bibId":"",
+				"gender":"M",
+				"profilePicS3key":"02c01-P54766_3-184.jpg",
+				"countryShortCode":"",
+				"regionalCode":"7",
+				"regionId":"17",
+				"regionName":"South West",
+				"divisionId":"1",
+				"profession":"33",
+				"affiliateId":"3852",
+				"affiliateName":"CrossFit Vantage",
+				"age":"32",
+				"height":"67 in",
+				"weight":"165 lb",
+				"teamCaptain":"0"
+			},
+
+			"ui":
+			{
+				"highlight":false
+			},
+
+			"scores":
+			[
+				{
+				"ordinal":1,
+				"rank":"104547",
+				"score":"12560000",
+				"scoreDisplay":"256 reps",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"2d6b7ad4180798649362",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"8 rounds +\n0 toes-to-bars","judge":"Joel Quizon","affiliate":"CrossFit Vantage",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":2,
+				"rank":"46241",
+				"score":"11100264",
+				"scoreDisplay":"7:36",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"85ebaab4c5142ad6de60",
+				"scaled":"0",
+				"video":"0",
+				"time":456,"breakdown":"110 reps\n205 lb.","judge":"Jeff Ayres","affiliate":"CrossFit Vantage",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":3,
+				"rank":"84659",
+				"score":"12050264",
+				"scoreDisplay":"205 lb",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"04f5d184f85d8267e918",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"205 lb.","time":456,"judge":"Jeff Ayres","affiliate":"CrossFit Vantage",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
+				"heat":"",
+				"lane":""
+				}
+
+			],
+
+			"overallRank":"76578",
+			"overallScore":"238287",
+			"nextStage":""
+		},
+		{
+			"entrant":
+			{
+				"competitorId":"698034",
+				"competitorName":"Greg Campbell",
+				"firstName":"Greg",
+				"lastName":"Campbell",
+				"status":"ACT",
+				"bibId":"",
+				"gender":"M",
+				"profilePicS3key":"pukie.png",
+				"countryShortCode":"",
+				"regionalCode":"0",
+				"regionId":"18",
+				"regionName":"Canada East",
+				"divisionId":"18",
+				"profession":"0",
+				"affiliateId":"17132",
+				"affiliateName":"Rapier CrossFit",
+				"age":"35",
+				"height":"",
+				"weight":"182 lb",
+				"teamCaptain":"0"
+			},
+
+			"ui":
+			{
+				"highlight":false
+			},
+
+			"scores":
+			[
+				{
+				"ordinal":1,
+				"rank":"83618",
+				"score":"12730000",
+				"scoreDisplay":"273 reps",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"abe9fb13a611a86ce688",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"8 rounds +\n8 toes-to-bars\n9 clean & jerks","judge":"Alex O'Halloran","affiliate":"Rapier CrossFit",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":2,
+				"rank":"82734",
+				"score":"11100190",
+				"scoreDisplay":"8:50",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"59793486aefc10e9c6fc",
+				"scaled":"0",
+				"video":"0",
+				"time":530,"breakdown":"110 reps\n220 lb.","judge":"Alex O'Halloran","affiliate":"Rapier CrossFit",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":3,
+				"rank":"69097",
+				"score":"12200190",
+				"scoreDisplay":"220 lb",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"decdb448a8840c9510ef",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"220 lb.","time":530,"judge":"Alex O'Halloran","affiliate":"Rapier CrossFit",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
+				"heat":"",
+				"lane":""
+				}
+
+			],
+
+			"overallRank":"76579",
+			"overallScore":"238289",
+			"nextStage":""
+		},
+		{
+			"entrant":
+			{
+				"competitorId":"1096844",
+				"competitorName":"Shane Doherty",
+				"firstName":"Shane",
+				"lastName":"Doherty",
+				"status":"ACT",
+				"bibId":"",
+				"gender":"M",
+				"profilePicS3key":"pukie.png",
+				"countryShortCode":"",
+				"regionalCode":"0",
+				"regionId":"23",
+				"regionName":"Europe Central",
+				"divisionId":"18",
+				"profession":"0",
+				"affiliateId":"7053",
+				"affiliateName":"CrossFit Letterkenny",
+				"age":"37",
+				"height":"",
+				"weight":"",
+				"teamCaptain":"0"
+			},
+
+			"ui":
+			{
+				"highlight":false
+			},
+
+			"scores":
+			[
+				{
+				"ordinal":1,
+				"rank":"64089",
+				"score":"12910000",
+				"scoreDisplay":"291 reps",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"b6efb2fb899cc2c445ea",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"9 rounds +\n3 toes-to-bars","judge":"Ruairi Crealey","affiliate":"CrossFit Letterkenny",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":2,
+				"rank":"64407",
+				"score":"11100227",
+				"scoreDisplay":"8:13",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"d274d111555a1a839586",
+				"scaled":"0",
+				"video":"0",
+				"time":493,"breakdown":"110 reps\n187 lb.","judge":"Neil Barrett","affiliate":"CrossFit Letterkenny",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":3,
+				"rank":"106956",
+				"score":"11870227",
+				"scoreDisplay":"187 lb",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"75fa8d147937e4e02ea6",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"187 lb.","time":493,"judge":"Neil Barrett","affiliate":"CrossFit Letterkenny",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
+				"heat":"",
+				"lane":""
+				}
+
+			],
+
+			"overallRank":"76580",
+			"overallScore":"238292",
+			"nextStage":""
+		},
+		{
+			"entrant":
+			{
+				"competitorId":"864722",
+				"competitorName":"Stefan van der Post",
+				"firstName":"Stefan",
+				"lastName":"van der Post",
+				"status":"ACT",
+				"bibId":"",
+				"gender":"M",
+				"profilePicS3key":"dc9dd-P864722_1-184.jpg",
+				"countryShortCode":"",
+				"regionalCode":"0",
+				"regionId":"23",
+				"regionName":"Europe Central",
+				"divisionId":"1",
+				"profession":"0",
+				"affiliateId":"10969",
+				"affiliateName":"CrossFit Nultien",
+				"age":"31",
+				"height":"182 cm",
+				"weight":"79 kg",
+				"teamCaptain":"0"
+			},
+
+			"ui":
+			{
+				"highlight":false
+			},
+
+			"scores":
+			[
+				{
+				"ordinal":1,
+				"rank":"64089",
+				"score":"12910000",
+				"scoreDisplay":"291 reps",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"d488ea71ad7d0ae872d6",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"9 rounds +\n3 toes-to-bars","judge":"Linde Spoel","affiliate":"CrossFit Nultien",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":2,
+				"rank":"64407",
+				"score":"11100227",
+				"scoreDisplay":"8:13",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"f76f665bc11d7eee631b",
+				"scaled":"0",
+				"video":"0",
+				"time":493,"breakdown":"110 reps\n187 lb.","judge":"Benjamin Carlier","affiliate":"CrossFit Nultien",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":3,
+				"rank":"106956",
+				"score":"11870227",
+				"scoreDisplay":"187 lb",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"5fdb163ecaea7355bd87",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"187 lb.","time":493,"judge":"Benjamin Carlier","affiliate":"CrossFit Nultien",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
+				"heat":"",
+				"lane":""
+				}
+
+			],
+
+			"overallRank":"76580",
+			"overallScore":"238292",
+			"nextStage":""
+		},
+		{
+			"entrant":
+			{
+				"competitorId":"189772",
+				"competitorName":"Harvey Roxas",
+				"firstName":"Harvey",
+				"lastName":"Roxas",
+				"status":"ACT",
+				"bibId":"",
+				"gender":"M",
+				"profilePicS3key":"69e4d-P189772_2-184.jpg",
+				"countryShortCode":"",
+				"regionalCode":"0",
+				"regionId":"19",
+				"regionName":"West Coast",
+				"divisionId":"1",
+				"profession":"0",
+				"affiliateId":"841",
+				"affiliateName":"CrossFit One World",
+				"age":"33",
+				"height":"67 in",
+				"weight":"177 lb",
+				"teamCaptain":"0"
+			},
+
+			"ui":
+			{
+				"highlight":false
+			},
+
+			"scores":
+			[
+				{
+				"ordinal":1,
+				"rank":"104547",
+				"score":"12560000",
+				"scoreDisplay":"256 reps",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"53c7771ec564012a0d5d",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"8 rounds +\n0 toes-to-bars","judge":"Jen Thayer","affiliate":"CrossFit One World",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":2,
+				"rank":"98581",
+				"score":"11100156",
+				"scoreDisplay":"9:24",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"c04ef86ea39489676d9b",
+				"scaled":"0",
+				"video":"0",
+				"time":564,"breakdown":"110 reps\n250 lb.","judge":"Rey Felipe","affiliate":"CrossFit One World",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":3,
+				"rank":"32327",
+				"score":"12500156",
+				"scoreDisplay":"250 lb",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"dccfb61a9885bb2e12cd",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"250 lb.","time":564,"judge":"Rey Felipe","affiliate":"CrossFit One World",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
+				"heat":"",
+				"lane":""
+				}
+
+			],
+
+			"overallRank":"76582",
+			"overallScore":"238295",
+			"nextStage":""
+		},
+		{
+			"entrant":
+			{
+				"competitorId":"216892",
+				"competitorName":"John Fleming",
+				"firstName":"John",
+				"lastName":"Fleming",
+				"status":"ACT",
+				"bibId":"",
+				"gender":"M",
+				"profilePicS3key":"ed0bc-P216892_3-184.jpg",
+				"countryShortCode":"",
+				"regionalCode":"3",
+				"regionId":"10",
+				"regionName":"North Central",
+				"divisionId":"3",
+				"profession":"0",
+				"affiliateId":"17286",
+				"affiliateName":"CrossFit Resound",
+				"age":"47",
+				"height":"69 in",
+				"weight":"185 lb",
+				"teamCaptain":"0"
+			},
+
+			"ui":
+			{
+				"highlight":false
+			},
+
+			"scores":
+			[
+				{
+				"ordinal":1,
+				"rank":"57551",
+				"score":"12960000",
+				"scoreDisplay":"296 reps",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"79cb8b80ee25db532ee6",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"9 rounds +\n8 toes-to-bars","judge":"Ryan Fellows","affiliate":"CrossFit Resound",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":2,
+				"rank":"90544",
+				"score":"11100174",
+				"scoreDisplay":"9:06",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"a508dca11b2f492959de",
+				"scaled":"0",
+				"video":"0",
+				"time":546,"breakdown":"110 reps\n205 lb.","judge":"Ryan Fellows","affiliate":"CrossFit Resound",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":3,
+				"rank":"87360",
+				"score":"12050174",
+				"scoreDisplay":"205 lb",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"13fe3994ddbd10d3cb89",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"205 lb.","time":546,"judge":"Ryan Fellows","affiliate":"CrossFit Resound",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
+				"heat":"",
+				"lane":""
+				}
+
+			],
+
+			"overallRank":"76582",
+			"overallScore":"238295",
+			"nextStage":""
+		},
+		{
+			"entrant":
+			{
+				"competitorId":"1348762",
+				"competitorName":"Felipe Teixeira",
+				"firstName":"Felipe",
+				"lastName":"Teixeira",
+				"status":"ACT",
+				"bibId":"",
+				"gender":"M",
+				"profilePicS3key":"fab46-P1348762_1-184.jpg",
+				"countryShortCode":"",
+				"regionalCode":"0",
+				"regionId":"27",
+				"regionName":"South America",
+				"divisionId":"1",
+				"profession":"128",
+				"affiliateId":"16440",
+				"affiliateName":"CrossFit Simio",
+				"age":"27",
+				"height":"184 cm",
+				"weight":"96 kg",
+				"teamCaptain":"0"
+			},
+
+			"ui":
+			{
+				"highlight":false
+			},
+
+			"scores":
+			[
+				{
+				"ordinal":1,
+				"rank":"86955",
+				"score":"12690000",
+				"scoreDisplay":"269 reps",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"bb70f172480eab8a2de0",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"8 rounds +\n8 toes-to-bars\n5 clean & jerks","judge":"Jo\u00e3o Romanini","affiliate":"CrossFit Simio",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":2,
+				"rank":"86814",
+				"score":"11100182",
+				"scoreDisplay":"8:58",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"c5d31c5cd6dc8bb1f3a9",
+				"scaled":"0",
+				"video":"0",
+				"time":538,"breakdown":"110 reps\n225 lb.","judge":"Jo\u00e3o Romanini","affiliate":"CrossFit Simio",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":3,
+				"rank":"61687",
+				"score":"12250182",
+				"scoreDisplay":"225 lb",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"a41779e8a6e71bcb6577",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"225 lb.","time":538,"judge":"Jo\u00e3o Romanini","affiliate":"CrossFit Simio",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
+				"heat":"",
+				"lane":""
+				}
+
+			],
+
+			"overallRank":"76584",
+			"overallScore":"238296",
+			"nextStage":""
+		},
+		{
+			"entrant":
+			{
+				"competitorId":"1088583",
+				"competitorName":"Jared Powell",
+				"firstName":"Jared",
+				"lastName":"Powell",
+				"status":"ACT",
+				"bibId":"",
+				"gender":"M",
+				"profilePicS3key":"pukie.png",
+				"countryShortCode":"",
+				"regionalCode":"4",
+				"regionId":"11",
+				"regionName":"North East",
+				"divisionId":"18",
+				"profession":"0",
+				"affiliateId":"853",
+				"affiliateName":"CrossFit Virtuosity",
+				"age":"36",
+				"height":"",
+				"weight":"",
+				"teamCaptain":"0"
+			},
+
+			"ui":
+			{
+				"highlight":false
+			},
+
+			"scores":
+			[
+				{
+				"ordinal":1,
+				"rank":"86955",
+				"score":"12690000",
+				"scoreDisplay":"269 reps",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"888918f62263d648028b",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"8 rounds +\n8 toes-to-bars\n5 clean & jerks","judge":"Dakota Hendon","affiliate":"CrossFit Virtuosity",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":2,
+				"rank":"62958",
+				"score":"11100230",
+				"scoreDisplay":"8:10",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"d9fe12115a36195a8ad7",
+				"scaled":"0",
+				"video":"0",
+				"time":490,"breakdown":"110 reps\n205 lb.","judge":"Tom Pipala","affiliate":"CrossFit Virtuosity",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":3,
+				"rank":"85543",
+				"score":"12050230",
+				"scoreDisplay":"205 lb",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"fd1db88c695e76154834",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"205 lb.","time":490,"judge":"Tom Pipala","affiliate":"CrossFit Virtuosity",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
+				"heat":"",
+				"lane":""
+				}
+
+			],
+
+			"overallRank":"76584",
+			"overallScore":"238296",
+			"nextStage":""
+		},
+		{
+			"entrant":
+			{
+				"competitorId":"1245443",
+				"competitorName":"Marty Emmett",
+				"firstName":"Marty",
+				"lastName":"Emmett",
+				"status":"ACT",
+				"bibId":"",
+				"gender":"M",
+				"profilePicS3key":"1d5b2-P1245443_1-184.jpg",
+				"countryShortCode":"",
+				"regionalCode":"0",
+				"regionId":"21",
+				"regionName":"Australasia",
+				"divisionId":"18",
+				"profession":"0",
+				"affiliateId":"0",
+				"affiliateName":"",
+				"age":"39",
+				"height":"184 cm",
+				"weight":"95 kg",
+				"teamCaptain":"0"
+			},
+
+			"ui":
+			{
+				"highlight":false
+			},
+
+			"scores":
+			[
+				{
+				"ordinal":1,
+				"rank":"94927",
+				"score":"12630000",
+				"scoreDisplay":"263 reps",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"ab33a50fa3de30add700",
+				"scaled":"0",
+				"video":"1",
+				"breakdown":"8 rounds +\n7 toes-to-bars",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":2,
+				"rank":"47714",
+				"score":"11100261",
+				"scoreDisplay":"7:39",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"29a5f5c37be7b1b1e1be",
+				"scaled":"0",
+				"video":"1",
+				"time":459,"breakdown":"110 reps\n200 lb.",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":3,
+				"rank":"92821",
+				"score":"12000261",
+				"scoreDisplay":"200 lb",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"d2ac80ace0b189da0e39",
+				"scaled":"0",
+				"video":"1",
+				"breakdown":"200 lb.","time":459,
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
+				"heat":"",
+				"lane":""
+				}
+
+			],
+
+			"overallRank":"76586",
+			"overallScore":"238302",
+			"nextStage":""
+		},
+		{
+			"entrant":
+			{
+				"competitorId":"701578",
+				"competitorName":"Robert Hale",
+				"firstName":"Robert",
+				"lastName":"Hale",
+				"status":"ACT",
+				"bibId":"",
+				"gender":"M",
+				"profilePicS3key":"pukie.png",
+				"countryShortCode":"",
+				"regionalCode":"7",
+				"regionId":"17",
+				"regionName":"South West",
+				"divisionId":"1",
+				"profession":"0",
+				"affiliateId":"9713",
+				"affiliateName":"CrossFit Crew",
+				"age":"33",
+				"height":"67 in",
+				"weight":"215 lb",
+				"teamCaptain":"0"
+			},
+
+			"ui":
+			{
+				"highlight":false
+			},
+
+			"scores":
+			[
+				{
+				"ordinal":1,
+				"rank":"74773",
+				"score":"12810000",
+				"scoreDisplay":"281 reps",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"c62a101a8ab5b17dcec8",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"8 rounds +\n8 toes-to-bars\n10 clean & jerks\n7 calories","judge":"Ryan Pettersson","affiliate":"CrossFit Crew",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":2,
+				"rank":"128299",
+				"score":"11100084",
+				"scoreDisplay":"10:36",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"6861332d25b008386b58",
+				"scaled":"0",
+				"video":"0",
+				"time":636,"breakdown":"110 reps\n250 lb.","judge":"Amanda De Wit","affiliate":"CrossFit Crew",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":3,
+				"rank":"32392",
+				"score":"12500084",
+				"scoreDisplay":"250 lb",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"b366917938f3aaedbb13",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"250 lb.","time":636,"judge":"Amanda De Wit","affiliate":"CrossFit Crew",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
+				"heat":"",
+				"lane":""
+				}
+
+			],
+
+			"overallRank":"76587",
+			"overallScore":"238304",
+			"nextStage":""
+		},
+		{
+			"entrant":
+			{
+				"competitorId":"906054",
+				"competitorName":"Rodrigo Zuh",
+				"firstName":"Rodrigo",
+				"lastName":"Zuh",
+				"status":"ACT",
+				"bibId":"",
+				"gender":"M",
+				"profilePicS3key":"33faf-P906054_1-184.jpg",
+				"countryShortCode":"",
+				"regionalCode":"0",
+				"regionId":"27",
+				"regionName":"South America",
+				"divisionId":"1",
+				"profession":"0",
+				"affiliateId":"16537",
+				"affiliateName":"CrossFit Berrini",
+				"age":"33",
+				"height":"178 cm",
+				"weight":"85 kg",
+				"teamCaptain":"0"
+			},
+
+			"ui":
+			{
+				"highlight":false
+			},
+
+			"scores":
+			[
+				{
+				"ordinal":1,
+				"rank":"83618",
+				"score":"12730000",
+				"scoreDisplay":"273 reps",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"f697cd285c99f345f59f",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"8 rounds +\n8 toes-to-bars\n9 clean & jerks","judge":"Fernando Ortiz","affiliate":"CrossFit Berrini",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":2,
+				"rank":"77347",
+				"score":"11100201",
+				"scoreDisplay":"8:39",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"b9dd025ba716beba3c96",
+				"scaled":"0",
+				"video":"0",
+				"time":519,"breakdown":"110 reps\n215 lb.","judge":"Fernando Ortiz","affiliate":"CrossFit Berrini",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":3,
+				"rank":"74501",
+				"score":"12150201",
+				"scoreDisplay":"215 lb",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"26da8fa10e87292661a6",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"215 lb.","time":519,"judge":"Fernando Ortiz","affiliate":"CrossFit Berrini",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
+				"heat":"",
+				"lane":""
+				}
+
+			],
+
+			"overallRank":"76588",
+			"overallScore":"238306",
+			"nextStage":""
+		},
+		{
+			"entrant":
+			{
+				"competitorId":"1297185",
+				"competitorName":"Justin Burns",
+				"firstName":"Justin",
+				"lastName":"Burns",
+				"status":"ACT",
+				"bibId":"",
+				"gender":"M",
+				"profilePicS3key":"pukie.png",
+				"countryShortCode":"",
+				"regionalCode":"1",
+				"regionId":"9",
+				"regionName":"Mid Atlantic",
+				"divisionId":"12",
+				"profession":"0",
+				"affiliateId":"4938",
+				"affiliateName":"CrossFit Vertex",
+				"age":"40",
+				"height":"",
+				"weight":"",
+				"teamCaptain":"0"
+			},
+
+			"ui":
+			{
+				"highlight":false
+			},
+
+			"scores":
+			[
+				{
+				"ordinal":1,
+				"rank":"98677",
+				"score":"12600000",
+				"scoreDisplay":"260 reps",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"9c079ae806d2097b7dbf",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"8 rounds +\n4 toes-to-bars","judge":"Tricia Strugala","affiliate":"CrossFit Vertex",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":2,
+				"rank":"62958",
+				"score":"11100230",
+				"scoreDisplay":"8:10",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"242e8871dee2ab82cf55",
+				"scaled":"0",
+				"video":"0",
+				"time":490,"breakdown":"110 reps\n215 lb.","judge":"John Enslin","affiliate":"CrossFit Vertex",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":3,
+				"rank":"73835",
+				"score":"12150230",
+				"scoreDisplay":"215 lb",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"9468b90ee7e400936cad",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"215 lb.","time":490,"judge":"John Enslin","affiliate":"CrossFit Vertex",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
+				"heat":"",
+				"lane":""
+				}
+
+			],
+
+			"overallRank":"76589",
+			"overallScore":"238310",
+			"nextStage":""
+		},
+		{
+			"entrant":
+			{
+				"competitorId":"511884",
+				"competitorName":"Russell Nuttall",
+				"firstName":"Russell",
+				"lastName":"Nuttall",
+				"status":"ACT",
+				"bibId":"",
+				"gender":"M",
+				"profilePicS3key":"998cb-P511884_1-184.jpg",
+				"countryShortCode":"",
+				"regionalCode":"0",
+				"regionId":"21",
+				"regionName":"Australasia",
+				"divisionId":"18",
+				"profession":"0",
+				"affiliateId":"6761",
+				"affiliateName":"CrossFit Play",
+				"age":"35",
+				"height":"178 cm",
+				"weight":"85 kg",
+				"teamCaptain":"0"
+			},
+
+			"ui":
+			{
+				"highlight":false
+			},
+
+			"scores":
+			[
+				{
+				"ordinal":1,
+				"rank":"72075",
+				"score":"12850000",
+				"scoreDisplay":"285 reps",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"963239f571ca44c8fa98",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"8 rounds +\n8 toes-to-bars\n10 clean & jerks\n11 calories","judge":"Khan Porter","affiliate":"CrossFit Play",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":2,
+				"rank":"88369",
+				"score":"11100179",
+				"scoreDisplay":"9:01",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"c439472e7b18ba5b6b01",
+				"scaled":"0",
+				"video":"0",
+				"time":541,"breakdown":"110 reps\n215 lb.","judge":"Tom Dennison","affiliate":"CrossFit Athletic City",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":3,
+				"rank":"75027",
+				"score":"12150179",
+				"scoreDisplay":"215 lb",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"df421c0008c027f4e132",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"215 lb.","time":541,"judge":"Tom Dennison","affiliate":"CrossFit Athletic City",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
+				"heat":"",
+				"lane":""
+				}
+
+			],
+
+			"overallRank":"76590",
+			"overallScore":"238311",
+			"nextStage":""
+		},
+		{
+			"entrant":
+			{
+				"competitorId":"131051",
+				"competitorName":"Jeffrey Lieberman",
+				"firstName":"Jeffrey",
+				"lastName":"Lieberman",
+				"status":"ACT",
+				"bibId":"",
+				"gender":"M",
+				"profilePicS3key":"pukie.png",
+				"countryShortCode":"",
+				"regionalCode":"4",
+				"regionId":"11",
+				"regionName":"North East",
+				"divisionId":"1",
+				"profession":"0",
+				"affiliateId":"11617",
+				"affiliateName":"Brick CrossFit Grand Central Station",
+				"age":"31",
+				"height":"67 in",
+				"weight":"155 lb",
+				"teamCaptain":"0"
+			},
+
+			"ui":
+			{
+				"highlight":false
+			},
+
+			"scores":
+			[
+				{
+				"ordinal":1,
+				"rank":"60313",
+				"score":"12940000",
+				"scoreDisplay":"294 reps",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"437f469abf51b22d299f",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"9 rounds +\n6 toes-to-bars","judge":"Joshua McGregor","affiliate":"Brick CrossFit Grand Central Station",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":2,
+				"rank":"70300",
+				"score":"11100215",
+				"scoreDisplay":"8:25",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"0f4020abe58e6f2b78c1",
+				"scaled":"0",
+				"video":"0",
+				"time":505,"breakdown":"110 reps\n190 lb.","judge":"Joshua McGregor","affiliate":"Brick CrossFit Grand Central Station",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":3,
+				"rank":"104867",
+				"score":"11900215",
+				"scoreDisplay":"190 lb",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"d807b640957e567daa56",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"190 lb.","time":505,"judge":"Joshua McGregor","affiliate":"Brick CrossFit Grand Central Station",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
+				"heat":"",
+				"lane":""
+				}
+
+			],
+
+			"overallRank":"76591",
+			"overallScore":"238320",
+			"nextStage":""
+		},
+		{
+			"entrant":
+			{
+				"competitorId":"524003",
+				"competitorName":"Marvin Merriweather",
+				"firstName":"Marvin",
+				"lastName":"Merriweather",
+				"status":"ACT",
+				"bibId":"",
+				"gender":"M",
+				"profilePicS3key":"7fdc6-P524003_2-184.jpg",
+				"countryShortCode":"",
+				"regionalCode":"3",
+				"regionId":"10",
+				"regionName":"North Central",
+				"divisionId":"1",
+				"profession":"0",
+				"affiliateId":"14600",
+				"affiliateName":"Rail Splitter CrossFit",
+				"age":"31",
+				"height":"69 in",
+				"weight":"230 lb",
+				"teamCaptain":"0"
+			},
+
+			"ui":
+			{
+				"highlight":false
+			},
+
+			"scores":
+			[
+				{
+				"ordinal":1,
+				"rank":"98677",
+				"score":"12600000",
+				"scoreDisplay":"260 reps",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"9a6b33fff422aaf20126",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"8 rounds +\n4 toes-to-bars","judge":"Jannette Allotey","affiliate":"Rail Splitter CrossFit",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":2,
+				"rank":"75868",
+				"score":"11100204",
+				"scoreDisplay":"8:36",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"d61baad721ac7d782712",
+				"scaled":"0",
+				"video":"0",
+				"time":516,"breakdown":"110 reps\n225 lb.","judge":"Ashley O'Connor","affiliate":"Rail Splitter CrossFit",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":3,
+				"rank":"60938",
+				"score":"12250204",
+				"scoreDisplay":"225 lb",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"1e581bf374d8b96b1013",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"225 lb.","time":516,"judge":"Ashley O'Connor","affiliate":"Rail Splitter CrossFit",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
+				"heat":"",
+				"lane":""
+				}
+
+			],
+
+			"overallRank":"76592",
+			"overallScore":"238323",
+			"nextStage":""
+		},
+		{
+			"entrant":
+			{
+				"competitorId":"401522",
+				"competitorName":"Matthew McNamara",
+				"firstName":"Matthew",
+				"lastName":"McNamara",
+				"status":"ACT",
+				"bibId":"",
+				"gender":"M",
+				"profilePicS3key":"c3793-P401522_2-184.jpg",
+				"countryShortCode":"",
+				"regionalCode":"4",
+				"regionId":"11",
+				"regionName":"North East",
+				"divisionId":"12",
+				"profession":"0",
+				"affiliateId":"2601",
+				"affiliateName":"CrossFit IronSpider",
+				"age":"40",
+				"height":"75 in",
+				"weight":"215 lb",
+				"teamCaptain":"0"
+			},
+
+			"ui":
+			{
+				"highlight":false
+			},
+
+			"scores":
+			[
+				{
+				"ordinal":1,
+				"rank":"55682",
+				"score":"12980000",
+				"scoreDisplay":"298 reps",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"d24dea8255584f059c5d",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"9 rounds +\n8 toes-to-bars\n2 clean & jerks","judge":"Steven Dion","affiliate":"CrossFit IronSpider",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":2,
+				"rank":"124842",
+				"score":"11100093",
+				"scoreDisplay":"10:27",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"830d2d834584c8ee668d",
+				"scaled":"0",
+				"video":"0",
+				"time":627,"breakdown":"110 reps\n228 lb.","judge":"Cam Burke","affiliate":"CrossFit IronSpider",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":3,
+				"rank":"54971",
+				"score":"12280093",
+				"scoreDisplay":"228 lb",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"69c7be044e8aa2e29a2b",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"228 lb.","time":627,"judge":"Cam Burke","affiliate":"CrossFit IronSpider",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
+				"heat":"",
+				"lane":""
+				}
+
+			],
+
+			"overallRank":"76593",
+			"overallScore":"238335",
+			"nextStage":""
+		},
+		{
+			"entrant":
+			{
+				"competitorId":"1294034",
+				"competitorName":"Cedric Cournoyer",
+				"firstName":"Cedric",
+				"lastName":"Cournoyer",
+				"status":"ACT",
+				"bibId":"",
+				"gender":"M",
+				"profilePicS3key":"2d874-P1294034_1-184.jpg",
+				"countryShortCode":"",
+				"regionalCode":"0",
+				"regionId":"18",
+				"regionName":"Canada East",
+				"divisionId":"1",
+				"profession":"0",
+				"affiliateId":"14972",
+				"affiliateName":"CrossFit 500",
+				"age":"22",
+				"height":"172 cm",
+				"weight":"165 lb",
+				"teamCaptain":"0"
+			},
+
+			"ui":
+			{
+				"highlight":false
+			},
+
+			"scores":
+			[
+				{
+				"ordinal":1,
+				"rank":"74081",
+				"score":"12820000",
+				"scoreDisplay":"282 reps",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"18d02ba55d8198238ee1",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"8 rounds +\n8 toes-to-bars\n10 clean & jerks\n8 calories","judge":"Maxime Gabriel","affiliate":"CrossFit 500",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":2,
+				"rank":"98979",
+				"score":"11100155",
+				"scoreDisplay":"9:25",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"49a479a522d5e155a574",
+				"scaled":"0",
+				"video":"0",
+				"time":565,"breakdown":"110 reps\n225 lb.","judge":"Marie","affiliate":"CrossFit Drummond",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":3,
+				"rank":"62440",
+				"score":"12250155",
+				"scoreDisplay":"225 lb",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"779fb2ed8f84b5574601",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"225 lb.","time":565,"judge":"Marie","affiliate":"CrossFit Drummond",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
+				"heat":"",
+				"lane":""
+				}
+
+			],
+
+			"overallRank":"76594",
+			"overallScore":"238340",
+			"nextStage":""
+		},
+		{
+			"entrant":
+			{
+				"competitorId":"470295",
+				"competitorName":"Richard Strong",
+				"firstName":"Richard",
+				"lastName":"Strong",
+				"status":"ACT",
+				"bibId":"",
+				"gender":"M",
+				"profilePicS3key":"pukie.png",
+				"countryShortCode":"",
+				"regionalCode":"0",
+				"regionId":"19",
+				"regionName":"West Coast",
+				"divisionId":"3",
+				"profession":"0",
+				"affiliateId":"18871",
+				"affiliateName":"Sweat Panda CrossFit",
+				"age":"48",
+				"height":"75 in",
+				"weight":"228 lb",
+				"teamCaptain":"0"
+			},
+
+			"ui":
+			{
+				"highlight":false
+			},
+
+			"scores":
+			[
+				{
+				"ordinal":1,
+				"rank":"59435",
+				"score":"12950000",
+				"scoreDisplay":"295 reps",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"33fcf30bf4a53b628c1b",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"9 rounds +\n7 toes-to-bars","judge":"Thomas O'Kane","affiliate":"Sweat Panda CrossFit",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":2,
+				"rank":"112794",
+				"score":"11100124",
+				"scoreDisplay":"9:56",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"32dea1b611985db5c415",
+				"scaled":"0",
+				"video":"0",
+				"time":596,"breakdown":"110 reps\n225 lb.","judge":"Joseph Stuart Conlin","affiliate":"Sweat Panda CrossFit",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":3,
+				"rank":"63276",
+				"score":"12250124",
+				"scoreDisplay":"225 lb",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"ed99175e8659f25aaae4",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"225 lb.","time":596,"judge":"Joseph Stuart Conlin","affiliate":"Sweat Panda CrossFit",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
+				"heat":"",
+				"lane":""
+				}
+
+			],
+
+			"overallRank":"76595",
+			"overallScore":"238345",
+			"nextStage":""
+		},
+		{
+			"entrant":
+			{
+				"competitorId":"515210",
+				"competitorName":"David Camp",
+				"firstName":"David",
+				"lastName":"Camp",
+				"status":"ACT",
+				"bibId":"",
+				"gender":"M",
+				"profilePicS3key":"ad7b2-P515210_1-184.jpg",
+				"countryShortCode":"",
+				"regionalCode":"0",
+				"regionId":"21",
+				"regionName":"Australasia",
+				"divisionId":"18",
+				"profession":"64",
+				"affiliateId":"4793",
+				"affiliateName":"CrossFit Marrickville",
+				"age":"38",
+				"height":"185 cm",
+				"weight":"85 kg",
+				"teamCaptain":"0"
+			},
+
+			"ui":
+			{
+				"highlight":false
+			},
+
+			"scores":
+			[
+				{
+				"ordinal":1,
+				"rank":"98677",
+				"score":"12600000",
+				"scoreDisplay":"260 reps",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"1f866fc32592374465f9",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"8 rounds +\n4 toes-to-bars","judge":"Raul Bedford","affiliate":"CrossFit Marrickville",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":2,
+				"rank":"83760",
+				"score":"11100188",
+				"scoreDisplay":"8:52",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"8ca7d541164dca91e53f",
+				"scaled":"0",
+				"video":"0",
+				"time":532,"breakdown":"110 reps\n231 lb.","judge":"Raul Bedford","affiliate":"CrossFit Marrickville",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":3,
+				"rank":"53073",
+				"score":"12310188",
+				"scoreDisplay":"231 lb",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"b55e7768c77b40722a13",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"231 lb.","time":532,"judge":"Raul Bedford","affiliate":"CrossFit Marrickville",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
+				"heat":"",
+				"lane":""
+				}
+
+			],
+
+			"overallRank":"76596",
+			"overallScore":"238350",
+			"nextStage":""
+		},
+		{
+			"entrant":
+			{
+				"competitorId":"1166706",
+				"competitorName":"Eduan James",
+				"firstName":"Eduan",
+				"lastName":"James",
+				"status":"ACT",
+				"bibId":"",
+				"gender":"M",
+				"profilePicS3key":"pukie.png",
+				"countryShortCode":"",
+				"regionalCode":"0",
+				"regionId":"25",
+				"regionName":"Africa Middle East",
+				"divisionId":"1",
+				"profession":"256",
+				"affiliateId":"0",
+				"affiliateName":"",
+				"age":"28",
+				"height":"",
+				"weight":"",
+				"teamCaptain":"0"
+			},
+
+			"ui":
+			{
+				"highlight":false
+			},
+
+			"scores":
+			[
+				{
+				"ordinal":1,
+				"rank":"101733",
+				"score":"12580000",
+				"scoreDisplay":"258 reps",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"ff464326c7f99e7640d0",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"8 rounds +\n2 toes-to-bars","judge":"Nathan Reed","affiliate":"CrossFit Kwetu",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":2,
+				"rank":"38908",
+				"score":"11100280",
+				"scoreDisplay":"7:20",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"54c52156db849225e276",
+				"scaled":"0",
+				"video":"0",
+				"time":440,"breakdown":"110 reps\n198 lb.","judge":"Jarryd Neale","affiliate":"CrossFit Valley Road",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":3,
+				"rank":"94870",
+				"score":"11980280",
+				"scoreDisplay":"198 lb",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"041df6bfeb130d2b3f37",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"198 lb.","time":440,"judge":"Jarryd Neale","affiliate":"CrossFit Valley Road",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
+				"heat":"",
+				"lane":""
+				}
+
+			],
+
+			"overallRank":"76597",
+			"overallScore":"238351",
+			"nextStage":""
+		},
+		{
+			"entrant":
+			{
+				"competitorId":"1187767",
+				"competitorName":"Marius Werner",
+				"firstName":"Marius",
+				"lastName":"Werner",
+				"status":"ACT",
+				"bibId":"",
+				"gender":"M",
+				"profilePicS3key":"pukie.png",
+				"countryShortCode":"",
+				"regionalCode":"0",
+				"regionId":"23",
+				"regionName":"Europe Central",
+				"divisionId":"1",
+				"profession":"0",
+				"affiliateId":"17559",
+				"affiliateName":"CrossFit Konstanz",
+				"age":"30",
+				"height":"178 cm",
+				"weight":"78 kg",
+				"teamCaptain":"0"
+			},
+
+			"ui":
+			{
+				"highlight":false
+			},
+
+			"scores":
+			[
+				{
+				"ordinal":1,
+				"rank":"92675",
+				"score":"12640000",
+				"scoreDisplay":"264 reps",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"5cd91421ac7a9e211fb3",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"8 rounds +\n8 toes-to-bars","judge":"Oliver Thomaschewski","affiliate":"CrossFit Konstanz",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":2,
+				"rank":"47714",
+				"score":"11100261",
+				"scoreDisplay":"7:39",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"dd8c3bd179e062777402",
+				"scaled":"0",
+				"video":"0",
+				"time":459,"breakdown":"110 reps\n198 lb.","judge":"Oliver Thomaschewski","affiliate":"CrossFit Konstanz",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":3,
+				"rank":"95122",
+				"score":"11980261",
+				"scoreDisplay":"198 lb",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"d5ed3c8a1b2aa2c65c2d",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"198 lb.","time":459,"judge":"Oliver Thomaschewski","affiliate":"CrossFit Konstanz",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
+				"heat":"",
+				"lane":""
+				}
+
+			],
+
+			"overallRank":"76597",
+			"overallScore":"238351",
+			"nextStage":""
+		},
+		{
+			"entrant":
+			{
+				"competitorId":"111625",
+				"competitorName":"Dale Marcum",
+				"firstName":"Dale",
+				"lastName":"Marcum",
+				"status":"ACT",
+				"bibId":"",
+				"gender":"M",
+				"profilePicS3key":"d3b17-P111625_2-184.jpg",
+				"countryShortCode":"",
+				"regionalCode":"0",
+				"regionId":"19",
+				"regionName":"West Coast",
+				"divisionId":"12",
+				"profession":"0",
+				"affiliateId":"5675",
+				"affiliateName":"CrossFit Immense",
+				"age":"42",
+				"height":"64 in",
+				"weight":"",
+				"teamCaptain":"0"
+			},
+
+			"ui":
+			{
+				"highlight":false
+			},
+
+			"scores":
+			[
+				{
+				"ordinal":1,
+				"rank":"98677",
+				"score":"12600000",
+				"scoreDisplay":"260 reps",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"291248eb404b67ea1268",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"8 rounds +\n4 toes-to-bars","judge":"Kelsey Leeding","affiliate":"CrossFit Immense",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":2,
+				"rank":"80834",
+				"score":"11100194",
+				"scoreDisplay":"8:46",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"7cf8451502501450d122",
+				"scaled":"0",
+				"video":"0",
+				"time":526,"breakdown":"110 reps\n227 lb.","judge":"Kelsey Leeding","affiliate":"CrossFit Immense",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":3,
+				"rank":"56007",
+				"score":"12270194",
+				"scoreDisplay":"227 lb",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"331f42397967e01a6d5d",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"227 lb.","time":526,"judge":"Kelsey Leeding","affiliate":"CrossFit Immense",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
+				"heat":"",
+				"lane":""
+				}
+
+			],
+
+			"overallRank":"76599",
+			"overallScore":"238358",
+			"nextStage":""
+		},
+		{
+			"entrant":
+			{
+				"competitorId":"812465",
+				"competitorName":"Michael Plovanich",
+				"firstName":"Michael",
+				"lastName":"Plovanich",
+				"status":"ACT",
+				"bibId":"",
+				"gender":"M",
+				"profilePicS3key":"2f331-P812465_1-184.jpg",
+				"countryShortCode":"",
+				"regionalCode":"3",
+				"regionId":"10",
+				"regionName":"North Central",
+				"divisionId":"12",
+				"profession":"2",
+				"affiliateId":"6916",
+				"affiliateName":"CrossFit Park Ridge",
+				"age":"43",
+				"height":"73 in",
+				"weight":"190 lb",
+				"teamCaptain":"0"
+			},
+
+			"ui":
+			{
+				"highlight":false
+			},
+
+			"scores":
+			[
+				{
+				"ordinal":1,
+				"rank":"80287",
+				"score":"12740000",
+				"scoreDisplay":"274 reps",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"75ec9701f60652202c65",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"8 rounds +\n8 toes-to-bars\n10 clean & jerks","judge":"Gerard Alleje","affiliate":"CrossFit Park Ridge",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":2,
+				"rank":"69311",
+				"score":"11100217",
+				"scoreDisplay":"8:23",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"6d58452e714f8b9d64c4",
+				"scaled":"0",
+				"video":"0",
+				"time":503,"breakdown":"110 reps\n205 lb.","judge":"Gerard Alleje","affiliate":"CrossFit Park Ridge",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":3,
+				"rank":"85921",
+				"score":"12050217",
+				"scoreDisplay":"205 lb",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"0462007265b19605ca17",
+				"scaled":"0",
+				"video":"0",
+				"breakdown":"205 lb.","time":503,"judge":"Gerard Alleje","affiliate":"CrossFit Park Ridge",
+				"heat":"",
+				"lane":""
+				}
+,				{
+				"ordinal":4,
+				"rank":"2840",
+				"score":"0",
+				"scoreDisplay":"",
+				"mobileScoreDisplay":"",
+				"scoreIdentifier":"",
+				"scaled":"0",
+				"video":"0",
+				"judge":"","affiliate":"","time":"","breakdown":"",
+				"heat":"",
+				"lane":""
+				}
+
+			],
+
+			"overallRank":"76600",
+			"overallScore":"238359",
 			"nextStage":""
 		}
 	]
