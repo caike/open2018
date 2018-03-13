@@ -23,7 +23,8 @@ routes.showLeaderboard = (request, response) => {
     let wodCount = 0;
     let nextWod = () => wods[wodCount++];
     let resetWod = () => wodCount = 0;
-    response.render("show", { results, counter, nextWod, resetWod });
+    let fitColSpan = () => results[0].scores.length - 1;
+    response.render("show", { results, counter, nextWod, resetWod, fitColSpan });
   });
 }
 
