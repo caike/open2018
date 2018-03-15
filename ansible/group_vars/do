@@ -1,0 +1,6 @@
+---
+ domain_name: open2018.csouza.me 
+ letsencrypt_email: carlos@csouza.me
+ git_repo: git@github.com:caike/open2018.git
+ app_name: open2018
+ app_directory: app

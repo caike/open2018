@@ -14,9 +14,9 @@
 
     - name: Clone/Pull from Github
       git:
-        repo: git@github.com:caike/open2018.git
-        dest: /home/deploy/open2018
+        repo: "{{ git_repo }}"
+        dest: "/home/deploy/{{ app_name }}"
         accept_hostkey: yes
 
     - name: Install dependencies
-      shell: cd /home/deploy/open2018/app; npm install
+      shell: "cd /home/deploy/{{ app_name }}/{{ app_directory }}; npm install"
