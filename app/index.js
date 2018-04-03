@@ -12,11 +12,21 @@ const mustacheExpress = require("mustache-express");
 app.engine("mustache", mustacheExpress());
 app.set("view engine", "mustache");
 app.set("views", __dirname + "/public");
+
 const routes = require("./lib/routes");
 
 app.get("/", routes.root);
-app.get("/leaderboard", routes.showLeaderboard);
-//app.post("/leaderboards", routes.createNewLeaderboard);
 
-const PORT = process.env.PORT || "8080";
-app.listen(PORT, () => console.log(`Listening on ${PORT}`));
+/** currently being used
+** for our hardcoded leaderboard
+**/
+app.get("/leaderboard", routes.showLeaderboard);
+app.get("/leaderboards/new", routes.Leaderboards.New)
+
+/* Leaderboard CRUD */
+app.get("/leaderboards/:id", routes.Leaderboards.Show)
+app.post("/leaderboards", routes.Leaderboards.Create);
+app.post("/leaderboards/:leaderboard_id/members",
+  routes.Leaderboards.Members.Create)
+
+module.exports = app;
