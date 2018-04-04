@@ -11,7 +11,7 @@ const mustacheExpress = require("mustache-express");
 
 app.engine("mustache", mustacheExpress());
 app.set("view engine", "mustache");
-app.set("views", __dirname + "/public");
+app.set("views", __dirname + "/views");
 
 const routes = require("./lib/routes");
 
