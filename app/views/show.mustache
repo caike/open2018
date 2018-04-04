@@ -18,12 +18,12 @@
           <thead class="thead-light">
             <tr>
               <th scope="col" colspan="2">#{{counter}}</th>
-              <th scope="col" colspan="3">
+              <th scope="col" colspan="2">
                 <a href="https://games.crossfit.com/athlete/{{entrant.competitorId}}"
                    target="_blank">
                   {{entrant.competitorName}}</a>
               </th>
-              <th scope="col" colspan="{{fitColSpan}}">
+              <th scope="col" colspan="2">
                 {{entrant.affiliateName}}
               </th>
             </tr>
@@ -32,13 +32,13 @@
           <tbody>
             <tr>
               {{#scores}}
-                <th colspan="2">{{nextWod}}</th>
+                <th colspan="1">{{nextWod}}</th>
               {{/scores}}
               <!--{{resetWod}}-->
             </tr>
             <tr>
               {{#scores}}
-                <td colspan="2">{{scoreDisplay}}</td>
+                <td colspan="1">{{scoreDisplay}}</td>
               {{/scores}}
             </tr>
           </tbody>
