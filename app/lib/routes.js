@@ -26,7 +26,7 @@ routes.showLeaderboard = (request, response) => {
 
 routes.Leaderboards = {
   New: (request, response) => {
-    // render new form
+    response.render("leaderboards-new");
   },
 
   Create: (request, response) => {
